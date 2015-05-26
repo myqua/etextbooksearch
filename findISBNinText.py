@@ -8,7 +8,7 @@ isbnPattern3 = re.compile(r'[A-zA-Z]((?:-?\d){9}X)')
 isbnPattern4 = re.compile(r'a(\d{10})\D')
 isbns = []
 #with open("CRCRoughISBN.txt", encoding="utf8") as isbn_lines:
-with open("LALE.isbn_list.txt") as isbn_lines:
+with open("SummerTextbooks2015.txt") as isbn_lines:
 #with open("UpdatedListSpring2015.txt") as isbn_lines:
     for line in isbn_lines:
         isbns.extend(isbnPattern1.findall(line))
@@ -22,7 +22,7 @@ for x in range(10):
     print (stripped[x])
 #with open("ProjectMuseISBNOnly.txt", "w") as outfile:
 #with open("SummerISBNOnly.txt", "w") as outfile:
-with open("LALE-ISBNs.txt", "w") as outfile:
+with open("Summer2015LSU-isbn.txt", "w") as outfile:
     for item in stripped:
         outfile.write("%s\n" % item)
 
