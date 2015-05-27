@@ -15,16 +15,22 @@ with open("SummerTextbooks2015.txt") as isbn_lines:
         isbns.extend(isbnPattern2.findall(line))
         isbns.extend(isbnPattern3.findall(line))
         isbns.extend(isbnPattern4.findall(line))
-stripped = '9781118162286'
+stripped = ['9781118162286','9781118083390']
 #for y in isbns:
- #   stripped.append(y.translate(str.maketrans('','','-')))
-#for z in stripped:
-urlstripped = 'http://xisbn.worldcat.org/webservices/xid/isbn/'+stripped
-response = requests.get(urlstripped)
-tree = ElementTree.fromstring(response.content)
-for child in tree:
-    print (child.text)
-
+#   stripped.append(y.translate(str.maketrans('','','-')))
+#   stripped = set(stripped)
+expandedisbns = []
+for z in stripped:
+    urlstripped = 'http://xisbn.worldcat.org/webservices/xid/isbn/'+z+'?method=getEditions&format=xml&ai=mike.waugh'
+    response = requests.get(urlstripped)
+    tree = ElementTree.fromstring(response.content)
+    for child in tree:
+            expandedisbns.append(child.text)
+#need to print these out to get around xisbn throttling of webservice requests
+with open("expandedISBNs.txt", "w") as outfile:
+    for item in expandedisbns:
+        outfile.write("%s\n" % item)
+print (expandedisbns)
 #match the files
 #with open('AllPublisherISBNs.txt','r') as f:
 #    isbn = [line.strip() for line in f]
