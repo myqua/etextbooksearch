@@ -7045,57 +7045,57 @@ ME 3752 002 Park
 WILEY
 50 44
 97B-0-470-04192-5 RQ
-** E BOOK **
-** E BOOK **
+** E 8OOK **
+** E 8OOK **
 200
 100
 16
 6
 EO
 EO
-ASHBY MATERIALS SEL.IN MECH.DESIGN 4TH 11 PB ELSEVIER BUTTRWORTH 97B-l-B561766-3-7 RQ
+ASH8Y MATERIA1S SE1.IN MECH.DESIGN 4TH 11 P8 E1SEVIER 8UTTRWORTH 978-1-8561766-3-7 RQ
 ME 4433
-BERGMAN
-BERGMAN
-BERGMAN
+8ERGMAN
+8ERGMAN
+8ERGMAN
 001 Staff
-INTRO.TO HEAT TRANSFER 6TH 11 WILEY
-EBK INTRODUCTION TO HEAT TRANSFER. EDITION AC DG DGTL BNCOM
-EBK INTRODUCTION TO HEAT TRANSFER. EDITION AC DG DGTL BNCOM
-WILEY
-ME 4433 002 Charalampopoulos
-BERGMAN INTRO.TO HEAT TRANSFER 6TH 11 WILEY
-BERGMAN
-BERGMAN
-EBK INTRODUCTION TO HEAT TRANSFER. EDITION AC DG DGTL BNCOM
-EBK INTRODUCTION TO HEAT TRANSFER. EDITION AC DG DGTL BNCOM
+INTRO.TO HEAT TRANSFER 6TH 11 WI1EY
+E8K INTRODUCTION TO HEAT TRANSFER. EDITION AC DG DGT1 8NCOM
+E8K INTRODUCTION TO HEAT TRANSFER. EDITION AC DG DGT1 8NCOM
+WI1EY
+ME 4433 002 Chara1ampopou1os
+8ERGMAN INTRO.TO HEAT TRANSFER 6TH 11 WI1EY
+8ERGMAN
+8ERGMAN
+E8K INTRODUCTION TO HEAT TRANSFER. EDITION AC DG DGT1 8NCOM
+E8K INTRODUCTION TO HEAT TRANSFER. EDITION AC DG DGT1 8NCOM
 ME 7903 001 Staff
 ** No Text Required **
 ME 7903 002 Staff
 ** No Text Required **
-ME BOOO 001 Acharya
+ME 8OOO 001 Acharya
 ** No Text Required **
-ME BOOO 002 Staff
+ME 8OOO 002 Staff
 ** No Text Required **
-ME BOOO 003 deQueiroz
+ME 8OOO 003 deQueiroz
 ** No Text Required**
-ME BOOO 004 Devi reddy
+ME 8OOO 004 Devi reddy
 ** No Text Required **
-ME BOOO 005 Ekkad
+ME 8OOO 005 Ekkad
 ** No Text Required **
-ME BOOO 006 Gonthier
+ME 8OOO 006 Gonthier
 ** No Text Required **
-WILEY
+WI1EY
 1 1
-97B-0-470-50196-2 RQ
-** E BOOK **
-** E BOOK **
-60 2B
+978-0-470-50196-2 RQ
+** E 8OOK **
+** E 8OOK **
+60 28
 EO
 EO
-97B-0-470-50196-2 RQ
-** E BOOK **
-** E BOOK **
+978-0-470-50196-2 RQ
+** E 8OOK **
+** E 8OOK **
 200
 200
 200
@@ -7116,74 +7116,74 @@ EO
 EO
 65
 5/26/15
-09:32:0B
+09:32:08
 Store: 1
-Al5
-User: S9B0940332
+A15
+User: S980940332
 Term:
 Dept/Course Section
-Author Title
-ME BOOO 007
+Author Tit1e
+ME 8OOO 007
 **No Text Required**
-ME BOOO OOB
+ME 8OOO OO8
 **No Text Required **
-ME BOOO 009
+ME 8OOO 009
 **No Text Required **
-ME BOOO 010
+ME 8OOO 010
 **No Text Required **
-ME BOOO 011
+ME 8OOO 011
 **No Text Required **
-ME BOOO 012
+ME 8OOO 012
 ** No Text Required **
-ME BOOO 013
+ME 8OOO 013
 ** No Text Required **
-ME BOOO 014
+ME 8OOO 014
 **No Text Required **
-ME BOOO 015
+ME 8OOO 015
 ** No Text Required **
-ME BOOO 016
+ME 8OOO 016
 ** No Text Required **
-ME BOOO 017
+ME 8OOO 017
 **No Text Required**
-ME BOOO OlB
+ME 8OOO O18
 **No Text Required**
-ME BOOO 019
+ME 8OOO 019
 ** No Text Required **
-ME BOOO 020
+ME 8OOO 020
 ** No Text Required**
-ME BOOO 021
+ME 8OOO 021
 **No Text Required**
-ME BOOO 022
+ME 8OOO 022
 **No Text Required**
-ME BOOO 023
+ME 8OOO 023
 ** No Text Required **
-ME BOOO 024
+ME 8OOO 024
 **No Text Required **
-ME BOOO 025
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
+ME 8OOO 025
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
 Guo 200 0
-Kelly 200 0
+Ke11y 200 0
 Khansari 200 0
-Li 200 0
+1i 200 0
 Meng 200 0
-Moldovan 200 1
+Mo1dovan 200 1
 Murphy 200 0
-Nikitopoulos 200 1
+Nikitopou1os 200 1
 Pang 200 0
 Park 200 0
 Ram 200 0
-Wah ab 200 0
+Wah a8 200 0
 Raman 200 0
-Sinclair 200 0
+Sinc1air 200 0
 Waggenspack 200 0
 Wang 200 0
 Wang 200 0
-Woldesenbet 200 0
+Wo1desen8et 200 0
 Wong 200 0
 RRQM013A
 Page:
@@ -7199,14 +7199,14 @@ Author
 A15
 User: S980940332
 Section
-Title
+Tit1e
 ** No Text Required **
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
 RRQM013A
 Page :
 RO
@@ -7222,7 +7222,7 @@ ME 8000 027 Wang 200 0
 ---------- -- --- -------- ------------------------------------------ ---------- -------------------------------------------------- -----
 ME 8000 028 Martin 200 1
 ** No Text Required **
-ME 8000 029 Schoegl 200 0
+ME 8000 029 Schoeg1 200 0
 ** No Text Required **
 ME 8000 030 Guo 200 0
 ** No Text Required **
@@ -7242,15 +7242,15 @@ ME 9000 006 Gonthier 200 0
 ** No Text Required **
 ME 9000 007 Guo 200 0
 **No Text Required **
-ME 9000 008 Kelly 200 0
+ME 9000 008 Ke11y 200 0
 ** No Text Required **
 ME 9000 009 Khansari 200 0
 **No Text Required **
-ME 9000 010 Li 200 0
+ME 9000 010 1i 200 0
 ** No Text Required **
 ME 9000 011 Meng 200 0
 ** No Text Required **
-ME 9000 012 Moldovan 200 0
+ME 9000 012 Mo1dovan 200 0
 ** No Text Required **
 5/26/15
 09:32:08
@@ -7259,7 +7259,7 @@ A15
 User: 5980940332
 Term:
 Dept/Course Section
-Author Title
+Author Tit1e
 ME 9000 013
 ** No Text Required **
 ME 9000 014
@@ -7296,29 +7296,29 @@ ME 9000 029
 ** No Text Required **
 MEDP 7992 001
 ** No Text Required **
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
 Murphy 200 0
-Nikitopoulos 200 1
+Nikitopou1os 200 1
 Pang 200 0
 Park 200 0
 Ram 200 0
-Wah ab 200 1
+Wah a8 200 1
 Raman 200 0
-Sinclair 200 0
+Sinc1air 200 0
 Waggenspack 200 0
 Wang 200 0
 Wang 200 0
-Woldesenbet 200 0
+Wo1desen8et 200 0
 Wong 200 0
 Jerro 200 0
 Wang 200 0
 Martin 200 0
-Schoegl 200 1
+Schoeg1 200 1
 Staff 200 3
 RRQM013A
 Page:
@@ -7333,31 +7333,31 @@ Term:
 Dept/Course
 Author
 1
-Al5
+A15
 User: S980940332
 Section
-Title
+Tit1e
 ** No Text Required **
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
 En ro 11 ments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
 RROM013A
 Page:
 RO
 69
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
-MEDP 8000 001 Gibbons 200 1
+MEDP 8000 001 Gi88ons 200 1
 ** No Text Required **
 ----------------------------------------------------------------------------------------------------------------------------------
 MEDP 8000 002 Hagstrom 200 0
 ** No Text Required **
 MEDP 8000 003 Matthews 200 0
 ** No Text Required **
-MEDP 8000 004 Vassil iev 200 0
+MEDP 8000 004 Vassi1 iev 200 0
 ** No Text Required **
 MEDP 8000 005 Staff 200 1
 ** No Text Required **
@@ -7371,40 +7371,40 @@ MEDP 8000 009 Newhauser 200 1
 **No Text Required **
 MEDP 8000 010 Newhauser 200 0
 ** No Text Required **
-MEDP 8000 011 Vassiliev 200 0
+MEDP 8000 011 Vassi1iev 200 0
 ** No Text Required **
 MEDP 8000 012 Jia 200 0
 **No Text Required **
-MGT 3111 001 Banks 45 23
-BARRINGER ENTREPRENEURSHIP 4TH 12 OE PEARSON PH 978-0-13-255552-4 RO
-BARRINGER EBK ENTREPRENEURSHIP 4 AC DG DGTL BNCOM ** E BOOK ** ED
-BARRINGER EBK ENTREPRENEURSHIP 4 AC DG DGTL BNCOM ** E BOOK ** ED
+MGT 3111 001 8anks 45 23
+8ARRINGER ENTREPRENEURSHIP 4TH 12 OE PEARSON PH 978-0-13-255552-4 RO
+8ARRINGER E8K ENTREPRENEURSHIP 4 AC DG DGT1 8NCOM ** E 8OOK ** ED
+8ARRINGER E8K ENTREPRENEURSHIP 4 AC DG DGT1 8NCOM ** E 8OOK ** ED
 MGT 3200 001 Morgan 60 35
-KINICKI MANAGEMENT:PRACTICAL INTRO.-TEXT 6TH 13 OE PB MCG IRWIN 978-0-07-802954-7 RO
-WILLIAMS EBK MANAGEMENT EDITION AC DG DGTL BNCOM ** E BOOK ** ED
-WILLIAMS EBK MANAGEMENT EDITION AC DG DGTL BNCOM ** E BOOK ** ED
+KINICKI MANAGEMENT:PRACTICA1 INTRO.-TEXT 6TH 13 OE P8 MCG IRWIN 978-0-07-802954-7 RO
+WI11IAMS E8K MANAGEMENT EDITION AC DG DGT1 8NCOM ** E 8OOK ** ED
+WI11IAMS E8K MANAGEMENT EDITION AC DG DGT1 8NCOM ** E 8OOK ** ED
 MGT 3280 001 Marin 200 4
 **No Text Required **
 5/26/15 Store: 1 User: S980940332
-09:32:08 Term: Al5
-BN #0396 LSU BOOKSTORE
-Departmental Report
+09:32:08 Term: A15
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
 RROM013A
 Page:
-Dept/Course Section Location Professor
-Enrollments
-Class Capacity Actual
-Author Title Edition Cv Publisher Imprint ISBN RO
+Dept/Course Section 1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Author Tit1e Edition Cv Pu81isher Imprint IS8N RO
 MGT 3320 001 Hightower 60 34
-DENIS I HR -STUDENT EDITION-W/ACCESS 2ND 14 OE PB CENGAGE L CENGAGE L 978-1-1336045-1-8 RO
+DENIS I HR -STUDENT EDITION-W/ACCESS 2ND 14 OE P8 CENGAGE 1 CENGAGE 1 978-1-1336045-1-8 RO
 MGT 3830 001 Marin 50 50
-ROTHAERMEL STRATEGIC MANAGEMENT 2ND 15 PB MCG MCG 978-0-07-764506-9 RO
-ROTHAERMEL
-ROTHAERMEL
-EBK STRATEGIC MANAGEMENT: CONCEPTS 2
-EBK STRATEGIC MANAGEMENT: CONCEPTS 2
-AC DG DGTL BNCOM MCGRAW-HIL ** E BOOK **
-AC DG DGTL BNCOM MCGRAW-HIL ** E BOOK **
+ROTHAERME1 STRATEGIC MANAGEMENT 2ND 15 P8 MCG MCG 978-0-07-764506-9 RO
+ROTHAERME1
+ROTHAERME1
+E8K STRATEGIC MANAGEMENT: CONCEPTS 2
+E8K STRATEGIC MANAGEMENT: CONCEPTS 2
+AC DG DGT1 8NCOM MCGRAW-HI1 ** E 8OOK **
+AC DG DGT1 8NCOM MCGRAW-HI1 ** E 8OOK **
 ED
 ED
 MGT 4020 001
@@ -7412,21 +7412,21 @@ MGT 4020 001
 MGT 4030 001
 **No Text Required **
 MKT 3401
-LAMB
+1AM8
 HAIR
 HAIR
 MKT 3401
-LAMB
+1AM8
 HAIR
 HAIR
 001
 MKTG 8:STUDENT ED.-W/ACCESS
-EBK MKTG 8
-EBK MKTG 8
+E8K MKTG 8
+E8K MKTG 8
 002
 MKTG 8:STUDENT ED.-W/ACCESS
-EBK MKTG 8
-EBK MKTG 8
+E8K MKTG 8
+E8K MKTG 8
 MKT 3410 001
 ** No Text Required **
 MKT 3410 002
@@ -7435,9 +7435,9 @@ MKT 3427 001
 MANNING
 MANNING
 MANNING
-SELLING TODAY
-EBK SELLING TODAY. 12/E
-EBK SELLING TODAY. 12/E
+SE11ING TODAY
+E8K SE11ING TODAY. 12/E
+E8K SE11ING TODAY. 12/E
 MKT 4445 001
 ** No Text Required **
 MKT 4477 001
@@ -7446,32 +7446,32 @@ MKT 7477 001
 ** No Text Required **
 Greckhamer 200 1
 Greckhamer 200 0
-Santaella 40 19
-8TH 15 OE PB CENGAGE L CENGAGE L 978-1-2854326-2-5 RO
-EDITION AC DG DGTL BNCOM
-EDITION AC DG DGTL BNCOM
-Santaella
-** E BOOK **
-** E BOOK **
+Santae11a 40 19
+8TH 15 OE P8 CENGAGE 1 CENGAGE 1 978-1-2854326-2-5 RO
+EDITION AC DG DGT1 8NCOM
+EDITION AC DG DGT1 8NCOM
+Santae11a
+** E 8OOK **
+** E 8OOK **
 40 30
 ED
 ED
-8TH 15 OE PB CENGAGE L CENGAGE L 978-1-2854326-2-5 RO
-EDITION AC DG DGTL BNCOM
-EDITION AC DG DGTL BNCOM
+8TH 15 OE P8 CENGAGE 1 CENGAGE 1 978-1-2854326-2-5 RO
+EDITION AC DG DGT1 8NCOM
+EDITION AC DG DGT1 8NCOM
 Karam
 Karam
-LASTNER
+1ASTNER
 12TH 12 OE PEARSON PH
 12
 12
-AC DG DGTL BNCOM
-AC DG DGTL BNCOM
+AC DG DGT1 8NCOM
+AC DG DGT1 8NCOM
 Staff
 Staff
 Staff
-** E BOOK **
-** E BOOK **
+** E 8OOK **
+** E 8OOK **
 85
 200
 40
@@ -7481,8 +7481,8 @@ Staff
 ED
 ED
 978-0-13-210986-4 RO
-** E BOOK **
-** E BOOK **
+** E 8OOK **
+** E 8OOK **
 200
 200
 200
@@ -7499,16 +7499,16 @@ Term:
 Dept/Course
 Author
 1
-Al5
+A15
 User: S980940332
 Section
-Title
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
+Tit1e
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
 RROM013A
 Page:
 RO
@@ -7519,19 +7519,19 @@ MKT 8900 001 Staff 200 0
 MKT 9000 001 Staff 200 0
 ** No Text Required **
 MUS 1108 001 Staff 16 6
-LANCASTER ALFRED'S PIANO 101.BOOK 1 99 SP ALFRED ALFRED 978-0-7390-0255-1 RO
-MATZ ALFRED'S PIANO 101 POP.BOOK 1 08 PB ALFRED ALFRED 978-0-7390-5146-7 RO
+1ANCASTER A1FRED'S PIANO 101.8OOK 1 99 SP A1FRED A1FRED 978-0-7390-0255-1 RO
+MATZ A1FRED'S PIANO 101 POP.8OOK 1 08 P8 A1FRED A1FRED 978-0-7390-5146-7 RO
 MUS 3130 001 Gray 200 3
 ** No Text Required **
-MUS 3130 002 Bade 200 1
+MUS 3130 002 8ade 200 1
 ** No Text Required **
 MUS 3151 001 Staff 200 2
 ** No Text Required **
-MUS 3703 001 Bazayev 200 2
+MUS 3703 001 8azayev 200 2
 ** No Text Required **
 MUS 7030 001 Gray 200 3
 ** No Text Required **
-MUS 7030 002 Bade 200 1
+MUS 7030 002 8ade 200 1
 ** No Text Required **
 MUS 7033 001 Staff 200 0
 **No Text Required **
@@ -7539,8 +7539,8 @@ MUS 7051 001 Staff 200 3
 **No Text Required **
 MUS 7700 001 Staff 200 15
 **No Text Required **
-MUS 7755 001 McFarland 24 24
-FRISCH MUSIC IN THE 19TH CENTURY BUNDLE 2012 NORTON 978-0-393-90928-9 RO
+MUS 7755 001 McFar1and 24 24
+FRISCH MUSIC IN THE 19TH CENTURY 8UND1E 2012 NORTON 978-0-393-90928-9 RO
 MUS 7928 001 Staff 200 2
 ** No Text Required **
 MUS 7929 001 Staff 200 1
@@ -7556,16 +7556,16 @@ Term:
 Dept/Course
 Author
 1
-Al5
+A15
 User: S980940332
 Section
-Title
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
+Tit1e
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
 RRQM013A
 Page :
 RO
@@ -7584,7 +7584,7 @@ MUS 8000 002 Staff 200 0
 ** No Text Required **
 MUS 8000 003 Smyth 200 0
 **No Text Required **
-MUS 8000 004 Bazayev 200 0
+MUS 8000 004 8azayev 200 0
 ** No Text Required **
 MUS 8000 005 Perry 200 0
 ** No Text Required **
@@ -7594,15 +7594,15 @@ MUS 9000 001 Constantini des 200 2
 ** No Text Required **
 MUS 9000 002 Staff 200 0
 ** No Text Required **
-MUS 9000 003 Beck 200 1
+MUS 9000 003 8eck 200 1
 **No Text Required **
-MUS 9000 004 Boutwell 200 0
+MUS 9000 004 8outwe11 200 0
 ** No Text Required **
 MUS 9000 005 Perry 200 0
 ** No Text Required **
 MUS 9000 006 Smyth 200 0
 ** No Text Required **
-MUS 9000 007 Bartolome 200 0
+MUS 9000 007 8arto1ome 200 0
 **No Text Required **
 MUS 9000 008 Staff 200 0
 ** No Text Required **
@@ -7610,7 +7610,7 @@ MUS 9002 001 Smyth 200 0
 ** No Text Required **
 MUS 9005 001 Smyth 200 0
 **No Text Required **
-MUS 9009 001 Skillen 200 0
+MUS 9009 001 Ski11en 200 0
 5/26/15
 09:32:08
 Store:
@@ -7621,14 +7621,14 @@ Author
 A15
 User: S980940332
 Section
-Title
+Tit1e
 ** No Text Required **
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
 RRQM013A
 Page:
 RO
@@ -7643,21 +7643,21 @@ MUS 9009 003 Dickson 200 1
 ** No Text Required **
 MUS 9009 004 Chodacki 200 0
 ** No Text Required**
-MUS 9009 005 Skillen 200 0
+MUS 9009 005 Ski11en 200 0
 ** No Text Required **
 MUS 9009 006 Staff 200 1
 ** No Text Required **
-MUS 9010 001 Delany 200 1
+MUS 9010 001 De1any 200 1
 ** No Text Required **
-MUS 9010 002 Goldstein 200 0
+MUS 9010 002 Go1dstein 200 0
 ** No Text Required **
 MUS 9010 003 Dietz 200 0
 ** No Text Required **
-MUS 9010 004 Si oles 200 0
+MUS 9010 004 Si o1es 200 0
 ** No Text Required **
 MUS 9010 005 He 200 0
 ** No Text Required **
-MUS 9936 001 Skillen 200 0
+MUS 9936 001 Ski11en 200 0
 ** No Text Required **
 ocs 3999 001 Staff 200 0
 ** No Text Required **
@@ -7671,7 +7671,7 @@ ocs 4001 004 Staff 200 0
 ** No Text Required **
 ocs 4001 005 Staff 200 0
 ** No Text Required **
-ocs 7001 001 D'Elia 200 3
+ocs 7001 001 D'E1ia 200 3
 ** No Text Required **
 5/26/15
 09:32:08
@@ -7683,23 +7683,23 @@ Author
 A15
 User: S980940332
 Section
-Title
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
+Tit1e
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
 RRQM013A
 Page:
 RO
 74
----------------------------------------------------------------------------------------------------------------------------------- ocs 8000 001 Baltz 200 0
+---------------------------------------------------------------------------------------------------------------------------------- ocs 8000 001 8a1tz 200 0
 ** No Text Required**
 ----------------------------------------------------------------------------------------------------------------------------------
-ocs 8000 002 Benfield 200 0
+ocs 8000 002 8enfie1d 200 0
 ** No Text Required **
-ocs 8000 003 Liang 200 1
+ocs 8000 003 1iang 200 1
 ** No Text Required **
 ocs 8000 004 Mariotti 200 0
 ** No Text Required **
@@ -7711,17 +7711,17 @@ ocs 8000 007 Cowan 200 4
 ** No Text Required **
 ocs 8000 008 Quirk 200 0
 ** No Text Required **
-ocs 8000 009 Gambrell 200 0
+ocs 8000 009 Gam8re11 200 0
 ** No Text Required **
 ocs 8000 010 Huang 200 0
 ** No Text Required **
-ocs 8000 011 Liu 200 0
+ocs 8000 011 1iu 200 0
 ** No Text Required **
-ocs 8000 012 BarguAtes 200 0
+ocs 8000 012 8arguAtes 200 0
 ** No Text Required **
 ocs 8000 013 Xue 200 0
 ** No Text Required**
-ocs 8000 014 Roberts 200 0
+ocs 8000 014 Ro8erts 200 0
 ** No Text Required **
 ocs 8000 015 Rose 200 0
 ** No Text Required **
@@ -7735,11 +7735,11 @@ ocs 8000 019 Turner 200 0
 5/26/15
 09:32:08
 Store: 1
-Al5
+A15
 User: S980940332
 Term:
 Dept/Course Section
-Author Title
+Author Tit1e
 ** No Text Required **
 ocs 8000 020
 ** No Text Required**
@@ -7777,27 +7777,27 @@ ocs 8000 036
 ** No Text Required **
 ocs 8900 001
 ** No Text Required **
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
-Li 200 0
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
+1i 200 0
 White 200 1
-Walker 200 0
-Lindau 200 0
-Twilley 200 0
-Rabalais 200 0
+Wa1ker 200 0
+1indau 200 0
+Twi11ey 200 0
+Ra8a1ais 200 0
 D'Sa 200 0
 Staff 200 1
 Powers 200 0
 White 200 1
 Maiti 200 0
 Sutor 200 2
-Gambrell 200 0
+Gam8re11 200 0
 Staff 200 0
-Lindau 200 0
+1indau 200 0
 Staff 200 0
 Rivera-Monroy 200 0
 Staff 200 0
@@ -7812,16 +7812,16 @@ Term:
 Dept/Course
 Author
 1
-Al5
+A15
 User: S980940332
 Section
-Title
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
+Tit1e
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
 RRQM013A
 Page:
 RO
@@ -7829,15 +7829,15 @@ RO
 ---------------------------------------------------------------------------------------------------------------------------------- ocs 8900 002 Condrey 200 0
 ** No Text Required **
 ----------------------------------------------------------------------------------------------------------------------------------
-ocs 8900 003 Mendelssohn 200 0
+ocs 8900 003 Mende1ssohn 200 0
 ** No Text Required **
-ocs 8900 004 Braud 200 0
+ocs 8900 004 8raud 200 0
 ** No Text Required **
-ocs 8900 005 Gambrell 200 0
+ocs 8900 005 Gam8re11 200 0
 ** No Text Required **
-ocs 8900 006 Lindau 200 0
+ocs 8900 006 1indau 200 0
 ** No Text Required **
-ocs 8900 007 Liu 200 0
+ocs 8900 007 1iu 200 0
 ** No Text Required **
 ocs 8900 008 Rouse 200 0
 ** No Text Required **
@@ -7845,21 +7845,21 @@ ocs 8901 001 Sutor 200 0
 ** No Text Required **
 ocs 8901 002 White 200 0
 ** No Text Required **
-ocs 8901 003 Braud 200 0
+ocs 8901 003 8raud 200 0
 ** No Text Required **
-ocs 8901 004 Lindau 200 0
+ocs 8901 004 1indau 200 0
 **No Text Required **
 ocs 8901 005 Rivera-Monroy 200 0
 ** No Text Required **
-ocs 9000 001 Baltz 200 0
+ocs 9000 001 8a1tz 200 0
 **No Text Required **
-ocs 9000 002 Benfield 200 0
+ocs 9000 002 8enfie1d 200 0
 ** No Text Required **
 ocs 9000 003 Staff 200 0
 **No Text Required **
 ocs 9000 004 Xu 200 0
 **No Text Required **
-ocs 9000 005 Liang 200 0
+ocs 9000 005 1iang 200 0
 **No Text Required **
 ocs 9000 006 Day 200 0
 ** No Text Required **
@@ -7867,11 +7867,11 @@ ocs 9000 007 D'Sa 200 0
 5/26/15
 09:32:08
 Store: 1
-Al5
+A15
 User: S980940332
 Term:
 Dept/Course Section
-Author Title
+Author Tit1e
 ** No Text Required **
 ocs 9000 008
 ** No Text Required **
@@ -7909,18 +7909,18 @@ ocs 9000 024
 ** No Text Required **
 ocs 9000 025
 ** No Text Required **
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
 Mariotti 200 0
-Gambrell 200 0
-Li 200 0
-Liu 200 0
+Gam8re11 200 0
+1i 200 0
+1iu 200 0
 Cowan 200 0
-Mendelssohn 200 1
+Mende1ssohn 200 1
 Powers 200 0
 Quirk 200 0
 Rose 200 0
@@ -7929,9 +7929,9 @@ Justic 200 1
 Sasser 200 0
 Maiti 200 0
 Turner 200 1
-Twilley 200 0
-Lindau 200 0
-Walker 200 1
+Twi11ey 200 0
+1indau 200 0
+Wa1ker 200 1
 White 200 0
 RRQM013A
 Page:
@@ -7944,21 +7944,21 @@ Term:
 Dept/Course
 Author
 1
-Al5
+A15
 User: S980940332
 Section
-Title
-SN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
+Tit1e
+SN #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
 RRQM013A
 Page:
 RO
 78
----------------------------------------------------------------------------------------------------------------------------------- ocs 9000 026 Rabalais 200 0
+---------------------------------------------------------------------------------------------------------------------------------- ocs 9000 026 Ra8a1ais 200 0
 **No Text Required **
 ----------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------- ocs 9000 027 Staff 200 0
@@ -7967,7 +7967,7 @@ ocs 9000 028 Huang 200 1
 **No Text Required **
 ocs 9000 029 Staff 200 0
 **No Text Required **
-ocs 9000 030 BarguAtes 200 0
+ocs 9000 030 8arguAtes 200 0
 **No Text Required **
 ocs 9000 031 Staff 200 0
 **No Text Required **
@@ -8003,17 +8003,17 @@ Term:
 Dept/Course
 Author
 1
-Al5
+A15
 User: S980940332
 Section
-Title
+Tit1e
 ** No Text Required **
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
 RRQM013A
 Page:
 RQ
@@ -8029,15 +8029,15 @@ PETE 8000 008 Hughes 200 0
 ** No Text Required **
 PETE 8000 009 Tyagi 200 0
 **No Text Required **
-PETE 8000 010 Waltrich 200 0
+PETE 8000 010 Wa1trich 200 0
 ** No Text Required **
-PETE 8000 011 DahiTaleghani 200 0
+PETE 8000 011 DahiTa1eghani 200 0
 ** No Text Required **
 PETE 9000 001 Sears 200 0
 ** No Text Required**
 PETE 9000 002 Radonjic 200 0
 ** No Text Required **
-PETE 9000 003 DahiTaleghani 200 0
+PETE 9000 003 DahiTa1eghani 200 0
 ** No Text Required **
 PETE 9000 004 Smith 200 0
 ** No Text Required **
@@ -8053,65 +8053,65 @@ PETE 9000 009 Tyagi 200 1
 **No Text Required **
 PETE 9000 010 Hughes 200 0
 **No Text Required **
-PETE 9000 011 Waltrich 200 0
+PETE 9000 011 Wa1trich 200 0
 ** No Text Required **
 5/26/15
 09:32:08
 Store: 1
-Al5
+A15
 User: S980940332
 Term:
 Dept/Course Section
-Author Title
-PHIL 1000 001
+Author Tit1e
+PHI1 1000 001
 **No Text Required **
-PHIL 3002 001
+PHI1 3002 001
 **No Text Required **
-PHIL 4991 001
+PHI1 4991 001
 ** No Text Required **
-PHIL 7991 001
+PHI1 7991 001
 **No Text Required **
-PHIL 7991 002
+PHI1 7991 002
 ** No Text Required **
-PHIL 7991 003
+PHI1 7991 003
 ** No Text Required **
-PHIL 8000 001
+PHI1 8000 001
 **No Text Required **
-PHIL 8000 002
+PHI1 8000 002
 ** No Text Required **
-PHIL 8000 003
+PHI1 8000 003
 ** No Text Required **
-PHIL 8000 004
+PHI1 8000 004
 **No Text Required **
-PHIL 8000 005
+PHI1 8000 005
 ** No Text Required **
-PHIL 8000 006
+PHI1 8000 006
 ** No Text Required **
-PHIL 8000 007
+PHI1 8000 007
 **No Text Required **
 PHYS 1209 001
-TAYLOR INTRO.TO ERROR ANALYSIS
+TAY1OR INTRO.TO ERROR ANA1YSIS
 PHYS 2001 001
-CUTNELL PHYSICS VOL I
-CUTNELL PHYSICS -STUD.STD.GOE.
-CUTNELL PHYSICS -STUD.SOLN.MAN.
+CUTNE11 PHYSICS VO1 I
+CUTNE11 PHYSICS -STUD.STD.GOE.
+CUTNE11 PHYSICS -STUD.SO1N.MAN.
 PHYS 2001 002
-CUTNELL PHYSICS VOL I
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
+CUTNE11 PHYSICS VO1 I
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
 RRQM013A
 Page:
-Edition Cv Publisher Imprint ISBN RO
-Blakley 200 10
+Edition Cv Pu81isher Imprint IS8N RO
+81ak1ey 200 10
 Schufreider 200 20
 Staff 200 0
 Pence 200 1
 Protevi 200 1
-Cogburn 200 1
-Cogburn 200 0
+Cog8urn 200 1
+Cog8urn 200 0
 Staff 200 0
 Staff 200 0
 Staff 200 0
@@ -8119,65 +8119,65 @@ Staff 200 0
 Staff 200 0
 Staff 200 0
 Staff 14 1
-2ND 97 PB UNIV SCI UNIV SCI 978-0-935702-75-0 RQ
+2ND 97 P8 UNIV SCI UNIV SCI 978-0-935702-75-0 RQ
 Staff 140 118
-lOTH WILEY 978-1-1190307-1-3 RQ
-lOTH 15 PB WILEY WILEY 978-1-1188368-9-7 RC
-lOTH 15 PB WILEY WILEY 978-1-1188369-0-3 RC
+1OTH WI1EY 978-1-1190307-1-3 RQ
+1OTH 15 P8 WI1EY WI1EY 978-1-1188368-9-7 RC
+1OTH 15 P8 WI1EY WI1EY 978-1-1188369-0-3 RC
 Staff 140 64
-lOTH WILEY 978-1-1190307-1-3 RQ
+1OTH WI1EY 978-1-1190307-1-3 RQ
 80
 5/26/15 Store: 1 User: S980940332
-09:32:08 Term: Al5
+09:32:08 Term: A15
 Dept/Course Section
 -------------------------
 Author
-CUTNELL
-CUTNELL
+CUTNE11
+CUTNE11
 PHYS 2002
-Title
+Tit1e
 PHYSICS -STUD.STD.GOE.
-PHYSICS -STUD.SOLN.MAN.
+PHYSICS -STUD.SO1N.MAN.
 001
-PHYSICS VOL I
+PHYSICS VO1 I
 PHYSICS -STUD.STD.GOE.
-PHYSICS -STUD.SOLN.MAN.
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location
+PHYSICS -STUD.SO1N.MAN.
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation
 ---------
 Edition
-lOTH 15
-lOTH 15
-lOTH
-lOTH 15
-lOTH 15
+1OTH 15
+1OTH 15
+1OTH
+1OTH 15
+1OTH 15
 Cv
-PB
-PB
+P8
+P8
 Professor
 ---------
-Publisher
+Pu81isher
 ---------
-WILEY
-WILEY
+WI1EY
+WI1EY
 Staff
-CUTNELL
-CUTNELL
-CUTNELL
-CUTNELL PHYSICS VOL I WILEYPLUS STANDALONE lOTH
-WILEY
-PB WILEY
-PB WILEY
-WILEY
+CUTNE11
+CUTNE11
+CUTNE11
+CUTNE11 PHYSICS VO1 I WI1EYP1US STANDA1ONE 1OTH
+WI1EY
+P8 WI1EY
+P8 WI1EY
+WI1EY
 PHYS 2002 002
-CUTNELL PHYSICS VOL I lOTH
-CUTNELL
-CUTNELL
-CUTNELL
-PHYSICS VOL I WILEYPLUS STANDALONE lOTH
+CUTNE11 PHYSICS VO1 I 1OTH
+CUTNE11
+CUTNE11
+CUTNE11
+PHYSICS VO1 I WI1EYP1US STANDA1ONE 1OTH
 PHYSICS -STUD.STD.GOE.
-PHYSICS -STUD.SOLN.MAN.
+PHYSICS -STUD.SO1N.MAN.
 PHYS 2108 001
 ** No Text Required **
 PHYS 2108 002
@@ -8201,13 +8201,13 @@ PHYS 2109 004
 PHYS 2109 005
 ** No Text Required **
 PHYS 2109 006
-lOTH 15
-lOTH 15
+1OTH 15
+1OTH 15
 Staff
-WILEY
-WILEY
-PB WILEY
-PB WILEY
+WI1EY
+WI1EY
+P8 WI1EY
+P8 WI1EY
 Staff
 Staff
 Staff
@@ -8222,16 +8222,16 @@ Staff
 Staff
 RRQM013A
 Page:
-Enrollments
-Class Capacity Actual
+Enro11ments
+C1ass Capacity Actua1
 --------------
-Imprint ISBN RO
-WILEY
-WILEY
-WILEY
-WILEY
-WILEY
-WILEY
+Imprint IS8N RO
+WI1EY
+WI1EY
+WI1EY
+WI1EY
+WI1EY
+WI1EY
 978-1-1188368-9-7 RC
 978-1-1188369-0-3 RC
 140 95
@@ -8260,14 +8260,14 @@ WILEY
 5/26/15 Store: 1 User: S980940332
 09:32:08 Term: A15
 Dept/Course Section
-Author Title
+Author Tit1e
 ** No Text Required **
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
 RROM013A
 Page:
 RO
@@ -8275,107 +8275,107 @@ RO
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
 PHYS 2110
-HALLIDAY
-HALLIDAY
-HALLIDAY
+HA11IDAY
+HA11IDAY
+HA11IDAY
 PHYS 2110
-HALLIDAY
-HALLIDAY
-HALLIDAY
+HA11IDAY
+HA11IDAY
+HA11IDAY
 PHYS 2112
-HALLIDAY
-HALLIDAY
-HALLIDAY
+HA11IDAY
+HA11IDAY
+HA11IDAY
 PHYS 2113
-HALLIDAY
-HALLIDAY
-HALLIDAY
+HA11IDAY
+HA11IDAY
+HA11IDAY
 PHYS 2113
-HALLIDAY
-HALLIDAY
-HALLIDAY
+HA11IDAY
+HA11IDAY
+HA11IDAY
 PHYS 2113
-HALLIDAY
-HALLIDAY
-HALLIDAY
+HA11IDAY
+HA11IDAY
+HA11IDAY
 001
-FUND OF PHYSICS VOL 1-W/WILEYPLUS > lOTH
-FUND.OF PHYSICS-STUD.SOLN.MAN.
+FUND OF PHYSICS VO1 1-W/WI1EYP1US > 1OTH
+FUND.OF PHYSICS-STUD.SO1N.MAN.
 FUND.OF PHYSICS-STUDY GUIDE
 002
-lOTH 14
-lOTH 14
-FUND OF PHYSICS VOL 1-W/WILEYPLUS > lOTH
-FUND.OF PHYSICS-STUD.SOLN.MAN.
+1OTH 14
+1OTH 14
+FUND OF PHYSICS VO1 1-W/WI1EYP1US > 1OTH
+FUND.OF PHYSICS-STUD.SO1N.MAN.
 FUND.OF PHYSICS-STUDY GUIDE
 001
-lOTH 14
-lOTH 14
-FUND OF PHYSICS VOL 2-W/WILEYPLUS > lOTH
-FUND.OF PHYSICS-STUD.SOLN.MAN.
+1OTH 14
+1OTH 14
+FUND OF PHYSICS VO1 2-W/WI1EYP1US > 1OTH
+FUND.OF PHYSICS-STUD.SO1N.MAN.
 FUND.OF PHYSICS-STUDY GUIDE
 001
-lOTH 14
-lOTH 14
-FUND OF PHYSICS VOL 2-W/WILEYPLUS > lOTH
-FUND.OF PHYSICS-STUD.SOLN.MAN.
+1OTH 14
+1OTH 14
+FUND OF PHYSICS VO1 2-W/WI1EYP1US > 1OTH
+FUND.OF PHYSICS-STUD.SO1N.MAN.
 FUND.OF PHYSICS-STUDY GUIDE
 002
-lOTH 14
-lOTH 14
-FUND OF PHYSICS VOL 2-W/WILEYPLUS > lOTH
-FUND.OF PHYSICS-STUD.SOLN.MAN.
+1OTH 14
+1OTH 14
+FUND OF PHYSICS VO1 2-W/WI1EYP1US > 1OTH
+FUND.OF PHYSICS-STUD.SO1N.MAN.
 FUND.OF PHYSICS-STUDY GUIDE
 004
-lOTH 14
-lOTH 14
-FUND OF PHYSICS VOL 2-W/WILEYPLUS > lOTH
-FUND.OF PHYSICS-STUD.SOLN.MAN.
+1OTH 14
+1OTH 14
+FUND OF PHYSICS VO1 2-W/WI1EYP1US > 1OTH
+FUND.OF PHYSICS-STUD.SO1N.MAN.
 FUND.OF PHYSICS-STUDY GUIDE
-lOTH 14
-lOTH 14
+1OTH 14
+1OTH 14
 PHYS 8000 001
 ** No Text Required **
 PHYS 8000 002
 **No Text Required **
 Staff
-WILEY C
-PB WILEY
-PB WILEY
+WI1EY C
+P8 WI1EY
+P8 WI1EY
 Staff
-WILEY C
-PB WILEY
-PB WILEY
+WI1EY C
+P8 WI1EY
+P8 WI1EY
 Staff
-WILEY C
-PB WILEY
-PB WILEY
+WI1EY C
+P8 WI1EY
+P8 WI1EY
 Staff
-WILEY C
-PB WILEY
-PB WILEY
+WI1EY C
+P8 WI1EY
+P8 WI1EY
 Staff
-WILEY C
-PB WILEY
-PB WILEY
+WI1EY C
+P8 WI1EY
+P8 WI1EY
 Staff
-WILEY C
-PB WILEY
-PB WILEY
-Browne
+WI1EY C
+P8 WI1EY
+P8 WI1EY
+8rowne
 Cherry
-WILEY
-WILEY
-WILEY
-WILEY
-WILEY
-WILEY
-WILEY
-WILEY
-WILEY
-WILEY
-WILEY
-WILEY
+WI1EY
+WI1EY
+WI1EY
+WI1EY
+WI1EY
+WI1EY
+WI1EY
+WI1EY
+WI1EY
+WI1EY
+WI1EY
+WI1EY
 75 73
 978-1-1190126-5-8 RO
 978-1-1182306-6-4 RC
@@ -8416,36 +8416,36 @@ PHYS 8000
 A15
 User: S980940332
 Section
-Title
+Tit1e
 004
 ** No Text Required **
-SN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
-Pullin 200 0
+SN #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
+Pu11in 200 0
 RRQM013A
 Page:
 RQ
 83
 ----------------------------------------------------------------------------------------------------------------------------------
-PHYS 8000 005 Browne 200 0
+PHYS 8000 005 8rowne 200 0
 ** No Text Required **
-PHYS 8000 006 Haber 200 0
+PHYS 8000 006 Ha8er 200 0
 ** No Text Required **
-PHYS 9000 002 Browne 200 0
+PHYS 9000 002 8rowne 200 0
 ** No Text Required **
 PHYS 9000 003 Cherry 200 1
 ** No Text Required **
-PHYS 9000 004 Clayton 200 2
+PHYS 9000 004 C1ayton 200 2
 **No Text Required **
 PHYS 9000 005 Diener 200 0
 **No Text Required **
 PHYS 9000 006 Ditusa 200 0
 **No Text Required **
-PHYS 9000 007 Dowling 200 5
+PHYS 9000 007 Dow1ing 200 5
 ** No Text Required **
 PHYS 9000 008 Dr a ayer 200 0
 ** No Text Required **
@@ -8455,7 +8455,7 @@ PHYS 9000 010 Gaarde 200 1
 ** No Text Required **
 PHYS 9000 011 Giaime 200 0
 ** No Text Required **
-PHYS 9000 012 Gonzalez 200 2
+PHYS 9000 012 Gonza1ez 200 2
 ** No Text Required **
 PHYS 9000 013 Hynes 200 1
 **No Text Required **
@@ -8465,7 +8465,7 @@ PHYS 9000 015 Kurtz 200 0
 **No Text Required **
 PHYS 9000 016 Kutter 200 0
 **No Text Required**
-PHYS 9000 017 Lee 200 0
+PHYS 9000 017 1ee 200 0
 5/26/15
 09:32:08
 Store:
@@ -8476,21 +8476,21 @@ Author
 A15
 User: S980940332
 Section
-Title
+Tit1e
 ** No Text Required **
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
 RRQM013A
 Page:
 RO
 84
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
-PHYS 9000 018 AgulloRodenas 200 0
+PHYS 9000 018 Agu11oRodenas 200 0
 **No Text Required **
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
@@ -8498,9 +8498,9 @@ PHYS 9000 019 Matthews 200 0
 ** No Text Required **
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
-PHYS 9000 020 Metcalf 200 0
+PHYS 9000 020 Metca1f 200 0
 ** No Text Required**
-PHYS 9000 021 Pullin 200 0
+PHYS 9000 021 Pu11in 200 0
 ** No Text Required **
 PHYS 9000 022 Rau 200 0
 ** No Text Required **
@@ -8512,21 +8512,21 @@ PHYS 9000 025 Sprunger 200 0
 ** No Text Required **
 PHYS 9000 026 Staff 200 0
 ** No Text Required **
-PHYS 9000 027 Stadler 200 0
+PHYS 9000 027 Stad1er 200 0
 **No Text Required **
-PHYS 9000 028 Toh line 200 0
+PHYS 9000 028 Toh 1ine 200 0
 **No Text Required **
 PHYS 9000 029 Vekhter 200 0
 ** No Text Required **
 PHYS 9000 030 Young 200 1
 ** No Text Required **
-PHYS 9000 031 O'Connell 200 0
+PHYS 9000 031 O'Conne11 200 0
 ** No Text Required **
 PHYS 9000 032 Moreno 200 0
 ** No Text Required **
 PHYS 9000 033 Zhang 200 0
 ** No Text Required **
-PHYS 9000 034 Jarrell 200 3
+PHYS 9000 034 Jarre11 200 3
 ** No Text Required **
 PHYS 9000 035 Jin 200 0
 ** No Text Required **
@@ -8537,7 +8537,7 @@ A15
 User: S980940332
 Term:
 Dept/Course Section
-Author Title
+Author Tit1e
 PHYS 9000 036
 ** No Text Required **
 PHYS 9000 037
@@ -8572,32 +8572,32 @@ PHYS 9000 051
 ** No Text Required **
 PHYS 9000 052
 ** No Text Required **
-PLHL 3900 001
+P1H1 3900 001
 ** No Text Required **
-PLHL 7051 001
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
+P1H1 7051 001
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
 Sheehy 200 0
-Plummer 200 0
+P1ummer 200 0
 Hogstrom 200 0
 Adams 200 0
 Staff 200 0
 Schafer 200 1
 Singh 200 0
-Deibel 200 1
-Corbitt 200 1
+Dei8e1 200 1
+Cor8itt 200 1
 Fontenot 200 1
 Newhauser 200 3
 Vekhter 200 0
 Tzanov 200 0
-Wilde 200 1
+Wi1de 200 1
 Matthews 200 1
-Plummer 200 0
-Haber 200 0
+P1ummer 200 0
+Ha8er 200 0
 Staff 200 0
 Schneider 200 6
 RRQM013A
@@ -8611,62 +8611,62 @@ Term:
 Dept/Course
 Author
 1
-Al5
+A15
 User: S980940332
 Section
-Title
+Tit1e
 ** No Text Required **
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
 RRQM013A
 Page:
 RQ
 86
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
-PLHL 8000 001 Clark 200 0
+P1H1 8000 001 C1ark 200 0
 ** No Text Required **
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
-PLHL 8000 002 Cohn 200 0
+P1H1 8000 002 Cohn 200 0
 **No Text Required **
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
-PLHL 8000 003 Damann 200 0
+P1H1 8000 003 Damann 200 0
 ** No Text Required **
-PLHL 8000 004 Ivey 200 1
+P1H1 8000 004 Ivey 200 1
 **No Text Required **
-PLHL 8000 005 Hoy 200 0
+P1H1 8000 005 Hoy 200 0
 ** No Text Required **
-PLHL 8000 006 Chen 200 0
+P1H1 8000 006 Chen 200 0
 **No Text Required **
-PLHL 8000 007 McGawley 200 0
+P1H1 8000 007 McGaw1ey 200 0
 **No Text Required **
-PLHL 8000 008 Price 200 0
+P1H1 8000 008 Price 200 0
 ** No Text Required **
-PLHL 8000 009 Singh 200 0
+P1H1 8000 009 Singh 200 0
 ** No Text Required **
-PLHL 8000 010 Schneider 200 0
+P1H1 8000 010 Schneider 200 0
 **No Text Required **
-PLHL 8000 011 Valverde 200 1
+P1H1 8000 011 Va1verde 200 1
 ** No Text Required **
-PLHL 8000 012 Hollier 200 1
+P1H1 8000 012 Ho11ier 200 1
 ** No Text Required **
-PLHL 8000 013 Overstreet 200 0
+P1H1 8000 013 Overstreet 200 0
 ** No Text Required **
-PLHL 8000 014 Ham 200 0
+P1H1 8000 014 Ham 200 0
 ** No Text Required **
-PLHL 8000 015 Doyle 200 0
+P1H1 8000 015 Doy1e 200 0
 ** No Text Required **
-PLHL 8000 016 Staff 200 0
+P1H1 8000 016 Staff 200 0
 **No Text Required **
-PLHL 8800 001 Clark 200 1
+P1H1 8800 001 C1ark 200 1
 ** No Text Required **
-PLHL 8900 001 McGawley 200 0
+P1H1 8900 001 McGaw1ey 200 0
 ** No Text Required **
 5/26/15
 09:32:08
@@ -8675,210 +8675,210 @@ Term:
 Dept/Course
 Author
 1
-Al5
+A15
 User: S980940332
 Section
-Title
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
+Tit1e
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
 RRQM013A
 Page:
 RQ
 87
 ----------------------------------------------------------------------------------------------------------------------------------
-PLHL 8900 002 Staff 200 0
+P1H1 8900 002 Staff 200 0
 ** No Text Required **
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
-PLHL 8900 003 Staff 200 0
+P1H1 8900 003 Staff 200 0
 ** No Text Required **
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
-PLHL 8900 004 Staff 200 0
+P1H1 8900 004 Staff 200 0
 ** No Text Required **
-PLHL 8900 005 Singh 200 0
+P1H1 8900 005 Singh 200 0
 ** No Text Required **
-PLHL 8900 006 Staff 200 0
+P1H1 8900 006 Staff 200 0
 ** No Text Required **
-PLHL 8900 007 Clark 200 0
+P1H1 8900 007 C1ark 200 0
 ** No Text Required **
-PLHL 9000 001 Clark 200 1
+P1H1 9000 001 C1ark 200 1
 ** No Text Required **
-PLHL 9000 002 Cohn 200 0
+P1H1 9000 002 Cohn 200 0
 **No Text Required **
-PLHL 9000 003 Damann 200 0
+P1H1 9000 003 Damann 200 0
 ** No Text Required **
-PLHL 9000 004 Ivey 200 0
+P1H1 9000 004 Ivey 200 0
 **No Text Required **
-PLHL 9000 005 Hoy 200 0
+P1H1 9000 005 Hoy 200 0
 ** No Text Required **
-PLHL 9000 006 Chen 200 4
+P1H1 9000 006 Chen 200 4
 **No Text Required **
-PLHL 9000 007 McGawley 200 0
+P1H1 9000 007 McGaw1ey 200 0
 ** No Text Required **
-PLHL 9000 008 Staff 200 0
+P1H1 9000 008 Staff 200 0
 ** No Text Required **
-PLHL 9000 009 Singh 200 0
+P1H1 9000 009 Singh 200 0
 **No Text Required**
-PLHL 9000 010 Schneider 200 0
+P1H1 9000 010 Schneider 200 0
 ** No Text Required **
-PLHL 9000 011 Valverde 200 0
+P1H1 9000 011 Va1verde 200 0
 **No Text Required**
-PLHL 9000 012 Hollier 200 0
+P1H1 9000 012 Ho11ier 200 0
 **No Text Required**
-PLHL 9000 013 Overstreet 200 0
+P1H1 9000 013 Overstreet 200 0
 5/26/15 Store: 1 User: S980940332
-09:32:08 Term: Al5
-BN #0396 LSU BOOKSTORE
-Departmental Report
+09:32:08 Term: A15
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
 RRQM013A
 Page:
-Dept/Course Section Location Professor
+Dept/Course Section 1ocation Professor
 Enro 11 ments
-Class Capacity Actual
-Author Title Edition Cv Publisher Imprint ISBN RO
+C1ass Capacity Actua1
+Author Tit1e Edition Cv Pu81isher Imprint IS8N RO
 **No Text Required**
-PLHL 9000 014 Ham 200 1
+P1H1 9000 014 Ham 200 1
 ** No Text Required **
-PLHL 9000 015 Doyle 200 0
+P1H1 9000 015 Doy1e 200 0
 ** No Text Required **
-PLHL 9000 016 Staff 200 0
+P1H1 9000 016 Staff 200 0
 ** No Text Required **
-PLHL 9000 017 Staff 200 0
+P1H1 9000 017 Staff 200 0
 ** No Text Required **
-PLHL 9000 018 Staff 200 0
+P1H1 9000 018 Staff 200 0
 **No Text Required **
-PLHL 9000 019 Staff 200 0
+P1H1 9000 019 Staff 200 0
 ** No Text Required **
-POLI 2057 002 Homayounvash 60 39
-BAYLIS GLOBALIZATION OF WORLD POLITICS 6TH 14 PB OXF OXF 978-0-19-965617-2 RO
+PO1I 2057 002 Homayounvash 60 39
+8AY1IS G1O8A1IZATION OF WOR1D PO1ITICS 6TH 14 P8 OXF OXF 978-0-19-965617-2 RO
 88
 ----------------------------------------------------------------------------------------------------------------------------------
-POLI 2060 001 Staff 35 11
+PO1I 2060 001 Staff 35 11
 ----------------------------------------------------------------------------------------------------------------------------------
-PLATO GORGIAS 98 PB CUP SERV CORNELL 978-0-8014-8527-5 RO
-ARISTOTLE ARISTOTLE'S NICOMACHEAN ETHICS 12 PB UCP UCP 978-0-226-02675-6 RO
-ST. T .AQUINAS POLITICAL IDEAS OF ST.T.AQUINAS 53 PB S+S FREE PR 978-0-684-83641-6 RO
-LOCKE SECOND TREATISE OF GOVT.+LETTER ... 02 PB DOVER DOVER 978-0-486-42464-4 RO
-MARX SELECTED WRITINGS:KARL MARX 94 PB HACKETT HACKETT 978-0-87220-218-4 RO
-DETOCQUEVILLE DEMOCRACY IN AMERICA 00 PB UCP UCP 978-0-226-80536-8 RO
-ARISTOTLE EBK ARISTOTLE'S NICOMACHEAN ETHICS AC DG DGTL BNCOM ** E BOOK ** ED
-AQUINAS EBK THE POLITICAL IDEAS OF ST. THOM AC DG DGTL BNCOM ** E BOOK ** NS
-LOCKE EBK THE SECOND TREATISE OF GOVERNME AC DG DGTL BNCOM ** E BOOK ** ED
-SIMON EBK SELECTED WRITINGS AC DG DGTL BNCOM ** E BOOK ** ED
-HEFFNER EBK DEMOCRACY IN AMERICA AC DG DGTL BNCOM ** E BOOK ** ED
-POLI 3901 001 Staff 200 1
+P1ATO GORGIAS 98 P8 CUP SERV CORNE11 978-0-8014-8527-5 RO
+ARISTOT1E ARISTOT1E'S NICOMACHEAN ETHICS 12 P8 UCP UCP 978-0-226-02675-6 RO
+ST. T .AQUINAS PO1ITICA1 IDEAS OF ST.T.AQUINAS 53 P8 S+S FREE PR 978-0-684-83641-6 RO
+1OCKE SECOND TREATISE OF GOVT.+1ETTER ... 02 P8 DOVER DOVER 978-0-486-42464-4 RO
+MARX SE1ECTED WRITINGS:KAR1 MARX 94 P8 HACKETT HACKETT 978-0-87220-218-4 RO
+DETOCQUEVI11E DEMOCRACY IN AMERICA 00 P8 UCP UCP 978-0-226-80536-8 RO
+ARISTOT1E E8K ARISTOT1E'S NICOMACHEAN ETHICS AC DG DGT1 8NCOM ** E 8OOK ** ED
+AQUINAS E8K THE PO1ITICA1 IDEAS OF ST. THOM AC DG DGT1 8NCOM ** E 8OOK ** NS
+1OCKE E8K THE SECOND TREATISE OF GOVERNME AC DG DGT1 8NCOM ** E 8OOK ** ED
+SIMON E8K SE1ECTED WRITINGS AC DG DGT1 8NCOM ** E 8OOK ** ED
+HEFFNER E8K DEMOCRACY IN AMERICA AC DG DGT1 8NCOM ** E 8OOK ** ED
+PO1I 3901 001 Staff 200 1
 ** No Text Required **
-POLI 4000 001 Sullivan 50 13
-THOMPSON POLITICAL SCANDAL 00 PD WILEY POD POLITY 978-0-7456-2550-8 RO
-POLI 4060 001 Clark 50 11
-JONES POLITICS UK 8TH 13 PB TAYLOR LONGMAN 978-1-4479214-0-0 RO
-5/26/15 Store: 1 User: S980940332 BN #0396 LSU BOOKSTORE RRQM013A
-09:32:08 Term: Al5 Departmental Report Page: 89
+PO1I 4000 001 Su11ivan 50 13
+THOMPSON PO1ITICA1 SCANDA1 00 PD WI1EY POD PO1ITY 978-0-7456-2550-8 RO
+PO1I 4060 001 C1ark 50 11
+JONES PO1ITICS UK 8TH 13 P8 TAY1OR 1ONGMAN 978-1-4479214-0-0 RO
+5/26/15 Store: 1 User: S980940332 8N #0396 1SU 8OOKSTORE RRQM013A
+09:32:08 Term: A15 Departmenta1 Report Page: 89
 Enro 11 ments
-Dept/Course Section Location Professor Class Capacity Actual
+Dept/Course Section 1ocation Professor C1ass Capacity Actua1
 ------------------------- --------- --------- --------------
-Author Title Edition Cv Publisher Imprint ISBN RQ
+Author Tit1e Edition Cv Pu81isher Imprint IS8N RQ
 ---------
-JONES EBK POLITICS UK 8 AC DG DGTL BNCOM ROUTLEDGE ** E BOOK ** ED
-JONES EBK POLITICS UK 8 AC DG DGTL BNCOM ROUTLEDGE ** E BOOK ** ED
-POLI 4064 001 Mokeba 35 17
-HANDELMAN CHALLENGE OF THIRD WORLD DEVELOPMEN 7TH 13 PB TAYLOR PEARSON 978-0-205-85466-0 RQ
-HANDELMAN EBK CHALLENGE OF THIRD WORLD DEVELO 7 AC DG DGTL BNCOM ** E BOOK ** ED
-HANDELMAN EBK CHALLENGE OF THIRD WORLD DEVELO 7 AC DG DGTL BNCOM ** E BOOK ** ED
-POLI 7964 001 Garand 200 13
+JONES E8K PO1ITICS UK 8 AC DG DGT1 8NCOM ROUT1EDGE ** E 8OOK ** ED
+JONES E8K PO1ITICS UK 8 AC DG DGT1 8NCOM ROUT1EDGE ** E 8OOK ** ED
+PO1I 4064 001 Moke8a 35 17
+HANDE1MAN CHA11ENGE OF THIRD WOR1D DEVE1OPMEN 7TH 13 P8 TAY1OR PEARSON 978-0-205-85466-0 RQ
+HANDE1MAN E8K CHA11ENGE OF THIRD WOR1D DEVE1O 7 AC DG DGT1 8NCOM ** E 8OOK ** ED
+HANDE1MAN E8K CHA11ENGE OF THIRD WOR1D DEVE1O 7 AC DG DGT1 8NCOM ** E 8OOK ** ED
+PO1I 7964 001 Garand 200 13
 ** No Text Required **
-POLI 7998 001 Staff 200 0
+PO1I 7998 001 Staff 200 0
 **No Text Required **
-POLI 8000 001 Staff 200 0
+PO1I 8000 001 Staff 200 0
 ** No Text Required **
-POLI 8000 002 Ray 200 0
+PO1I 8000 002 Ray 200 0
 ** No Text Required **
-POLI 8000 003 Staff 200 0
+PO1I 8000 003 Staff 200 0
 ** No Text Required **
-POLI 8000 004 Staff 200 0
+PO1I 8000 004 Staff 200 0
 ** No Text Required **
-POLI 8000 005 Staff 200 0
+PO1I 8000 005 Staff 200 0
 ** No Text Required **
-POLI 8000 006 Staff 200 0
+PO1I 8000 006 Staff 200 0
 ** No Text Required **
-POLI 8000 007 Staff 200 0
+PO1I 8000 007 Staff 200 0
 **No Text Required **
-POLI 8000 008 Sobek 200 0 ** No Text Required **
-POLI 8000 009 Sobek 200 0
+PO1I 8000 008 So8ek 200 0 ** No Text Required **
+PO1I 8000 009 So8ek 200 0
 ** No Text Required **
-POLI 9000 001 Stoner 200 3
+PO1I 9000 001 Stoner 200 3
 ** No Text Required **
-POLI 9000 002 Parent 200 0
+PO1I 9000 002 Parent 200 0
 ** No Text Required **
-POLI 9000 003 Kenny 200 1
+PO1I 9000 003 Kenny 200 1
 ** No Text Required **
----------------------------------------------------------------------------------- ------------------------------------------------ POLI 9000 004 Garand 200 1
+---------------------------------------------------------------------------------- ------------------------------------------------ PO1I 9000 004 Garand 200 1
 ** No Text Required **
 ----------------------------------------------------- -----------------------------------------------------------------------------
 5/26/15
 09:32:08
 Store: 1
-Al5
+A15
 User: S980940332
 Term:
 Dept/Course Section
-Author Title
-POLI 9000 005
+Author Tit1e
+PO1I 9000 005
 ** No Text Required **
-POLI 9000 006
+PO1I 9000 006
 **No Text Required **
-POLI 9000 007
+PO1I 9000 007
 ** No Text Required **
-POLI 9000 008
+PO1I 9000 008
 ** No Text Required **
-POLI 9000 009
+PO1I 9000 009
 ** No Text Required **
-POLI 9000 010
+PO1I 9000 010
 ** No Text Required **
 PSYC 2000 001
-CICCARELLI PSYC PKG LSU >IC<
+CICCARE11I PSYC PKG 1SU >IC<
 PSYC 2070 001
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
 RRQM013A
 Page:
-Edition Cv Publisher Imprint ISBN RQ
-Clark 200 0
+Edition Cv Pu81isher Imprint IS8N RQ
+C1ark 200 0
 Hogan 200 0
 Sandoz 200 0
 Staff 200 0
 Staff 200 0
 Tirone 200 0
-Acklin 94 27
-lST PEARSON C 978-1-3230263-7-3 RQ
-Lyon 60 7
-BERGER DEVEL.PERSON THROUGH LIFE SPAN CCL) 8TH 11 OE MAC HIGHER WORTH 978-1-4292320-3-6 RQ
-BERGER EBK THE DEVELOPING PERSON THROUGH T 8 AC DG DGTL BNCOM WORTH PUBL ** E BOOK ** EO
-PSYC 2076 001 Olinger 60 11
-FELDMAN CHILD DEVELOPMENT 7TH 16 PEARSON PEARSON 978-0-13-385203-5 RQ
-PSYC 2999 001 Baumeister 200 0
+Ack1in 94 27
+1ST PEARSON C 978-1-3230263-7-3 RQ
+1yon 60 7
+8ERGER DEVE1.PERSON THROUGH 1IFE SPAN CC1) 8TH 11 OE MAC HIGHER WORTH 978-1-4292320-3-6 RQ
+8ERGER E8K THE DEVE1OPING PERSON THROUGH T 8 AC DG DGT1 8NCOM WORTH PU81 ** E 8OOK ** EO
+PSYC 2076 001 O1inger 60 11
+FE1DMAN CHI1D DEVE1OPMENT 7TH 16 PEARSON PEARSON 978-0-13-385203-5 RQ
+PSYC 2999 001 8aumeister 200 0
 **No Text Required **
-PSYC 2999 002 Beck 200 0
+PSYC 2999 002 8eck 200 0
 ** No Text Required **
-PSYC 2999 003 Buckner 200 0
+PSYC 2999 003 8uckner 200 0
 ** No Text Required **
 PSYC 2999 004 Cherry 200 0
 **No Text Required **
 PSYC 2999 005 Cohen 200 0
 **No Text Required **
-PSYC 2999 006 Copeland 200 0
+PSYC 2999 006 Cope1and 200 0
 ** No Text Required **
 PSYC 2999 007 Davis 200 0
 ** No Text Required **
-PSYC 2999 008 Elliott 200 1
+PSYC 2999 008 E11iott 200 1
 90
 5/26115
 09:32:08
@@ -8887,7 +8887,7 @@ A15
 User: S980940332
 Term:
 Dept/Course Section
-Author Title
+Author Tit1e
 **No Text Required **
 PSYC 2999 009
 ** No Text Required **
@@ -8918,37 +8918,37 @@ PSYC 2999 021
 PSYC 2999 022
 ** No Text Required **
 PSYC 3082 001
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
-Geiselman 200 0
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
+Geise1man 200 0
 Gresham 200 0
 Hawkins 200 0
 Hicks 200 0
-Kelley 200 0
-Lane 200 0
-Long 200 0
+Ke11ey 200 0
+1ane 200 0
+1ong 200 0
 Matson 200 0
-McDonald 200 0
-Noell 200 0
+McDona1d 200 0
+Noe11 200 0
 Papesh 200 0
 Renshaw 200 0
 Staiano 200 0
-Calamia 200 0
-Peltier 60 18
+Ca1amia 200 0
+Pe1tier 60 18
 RRQM013A
 Page:
 RQ
-BARLOW ABNORMAL PSYCHOLOGY-TEXT 7TH 15 CENGAGE L CENGAGE L 978-1-2857556-1-8 RQ
-BARLOW EBK ABNORMAL PSYCHOLOGY: AN INTEGRA '007 AC DG DGTL BNCOM ** E BOOK ** EO
-BARLOW EBK ABNORMAL PSYCHOLOGY: AN INTEGRA '007 AC DG DGTL BNCOM ** E BOOK ** EO
-PSYC 3083 001 Copeland 100 18
+8AR1OW A8NORMA1 PSYCHO1OGY-TEXT 7TH 15 CENGAGE 1 CENGAGE 1 978-1-2857556-1-8 RQ
+8AR1OW E8K A8NORMA1 PSYCHO1OGY: AN INTEGRA '007 AC DG DGT1 8NCOM ** E 8OOK ** EO
+8AR1OW E8K A8NORMA1 PSYCHO1OGY: AN INTEGRA '007 AC DG DGT1 8NCOM ** E 8OOK ** EO
+PSYC 3083 001 Cope1and 100 18
 91
 ----------------------------------------------------------------------------------------------------------------------------------
-TODD FOUND.OF CLINICAL+COUNSELING PSYCH. 4TH 06 WAVELAND WAVELAND 978-1-5776641-0-9 RQ
+TODD FOUND.OF C1INICA1+COUNSE1ING PSYCH. 4TH 06 WAVE1AND WAVE1AND 978-1-5776641-0-9 RQ
 5/26115
 09:32:08
 Store:
@@ -8959,13 +8959,13 @@ Author
 A15
 User: S980940332
 Section
-Title
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
+Tit1e
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
 RRQM013A
 Page:
 RO
@@ -8973,26 +8973,26 @@ RO
 ----------------------------------------------------------------------------------------------------------------------------------
 PSYC 4008 001 Hawkins 70 44
 ----------------------------------------------------------------------------------------------------------------------------------
-GOODWIN HISTORY OF MODERN PSYCHOLOGY 4TH 12 OE WILEY WILEY 978-1-1180114-5-4 RO
-HODGSON M CKEL EBK A HISTORY OF MODERN PSYCHOLOGY. AC DG DGTL BNCOM ** E BOOK ** ED
-HODGSON M CKEL EBK A HISTORY OF MODERN PSYCHOLOGY. AC DG DGTL BNCOM ** E BOOK ** ED
-PSYC 4999 001 Baumeister 200 0
+GOODWIN HISTORY OF MODERN PSYCHO1OGY 4TH 12 OE WI1EY WI1EY 978-1-1180114-5-4 RO
+HODGSON M CKE1 E8K A HISTORY OF MODERN PSYCHO1OGY. AC DG DGT1 8NCOM ** E 8OOK ** ED
+HODGSON M CKE1 E8K A HISTORY OF MODERN PSYCHO1OGY. AC DG DGT1 8NCOM ** E 8OOK ** ED
+PSYC 4999 001 8aumeister 200 0
 ** No Text Required**
-PSYC 4999 002 Beck 200 1
+PSYC 4999 002 8eck 200 1
 ** No Text Required **
-PSYC 4999 003 Buckner 200 0
+PSYC 4999 003 8uckner 200 0
 ** No Text Required **
 PSYC 4999 004 Cherry 200 0
 ** No Text Required**
 PSYC 4999 005 Cohen 200 0
 ** No Text Required **
-PSYC 4999 006 Copeland 200 0
+PSYC 4999 006 Cope1and 200 0
 **No Text Required **
 PSYC 4999 007 Davis 200 0
 **No Text Required **
-PSYC 4999 008 Elliott 200 2
+PSYC 4999 008 E11iott 200 2
 **No Text Required **
-PSYC 4999 009 Geiselman 200 0
+PSYC 4999 009 Geise1man 200 0
 **No Text Required **
 PSYC 4999 010 Gresham 200 0
 **No Text Required **
@@ -9000,11 +9000,11 @@ PSYC 4999 011 Hawkins 200 0
 **No Text Required **
 PSYC 4999 012 Hicks 200 0
 ** No Text Required **
-PSYC 4999 013 Kelley 200 1
+PSYC 4999 013 Ke11ey 200 1
 ** No Text Required **
-PSYC 4999 014 Lane 200 0
+PSYC 4999 014 1ane 200 0
 ** No Text Required **
-PSYC 4999 015 Long 200 0
+PSYC 4999 015 1ong 200 0
 ** No Text Required **
 ----------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------- ------------------------------------------------ PSYC 4999 016 Matson 200 0
@@ -9017,7 +9017,7 @@ A15
 User: S980940332
 Term:
 Dept/Course Section
-Author Title
+Author Tit1e
 PSYC 4999 017
 ** No Text Required **
 PSYC 4999 018
@@ -9055,31 +9055,31 @@ PSYC 7969 001
 PSYC 7997 001
 ** No Text Required **
 PSYC 8000 001
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
-McDonald 200 0
-Noell 200 0
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
+McDona1d 200 0
+Noe11 200 0
 Papesh 200 0
 Renshaw 200 0
 Staiano 200 0
-Calamia 200 0
-Noell 200 4
-Long 200 3
-Kelley 200 0
-Buckner 200 2
+Ca1amia 200 0
+Noe11 200 4
+1ong 200 3
+Ke11ey 200 0
+8uckner 200 2
 Cohen 200 6
-Copeland 200 2
+Cope1and 200 2
 Davis 200 3
 Matson 200 7
-Kelley 200 6
+Ke11ey 200 6
 Staff 200 3
-Noell 200 2
+Noe11 200 2
 Matson 200 7
-Baumeister 200 0
+8aumeister 200 0
 RRQM013A
 Page:
 RQ
@@ -9087,11 +9087,11 @@ RQ
 5/26/15
 09:32:08
 Store: 1
-Al5
+A15
 User: S980940332
 Term:
 Dept/Course Section
-Author Title
+Author Tit1e
 ** No Text Required **
 PSYC 8000 002
 ** No Text Required**
@@ -9129,30 +9129,30 @@ PSYC 8000 018
 ** No Text Required **
 PSYC 8000 019
 ** No Text Required **
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
-Beck 200 0
-Brantley 200 0
-Buckner 200 0
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
+8eck 200 0
+8rant1ey 200 0
+8uckner 200 0
 Cherry 200 0
 Cohen 200 1
-Copeland 200 0
+Cope1and 200 0
 Davis 200 0
-Elliott 200 0
-Geiselman 200 0
+E11iott 200 0
+Geise1man 200 0
 Gresham 200 1
 Hawkins 200 0
 Hicks 200 1
-Kelley 200 0
-Lane 200 0
-Long 200 1
+Ke11ey 200 0
+1ane 200 0
+1ong 200 1
 Mathews 200 0
 Matson 200 0
-McDonald 200 1
+McDona1d 200 1
 RRQM013A
 Page:
 RQ
@@ -9167,19 +9167,19 @@ Author
 A15
 User: S980940332
 Section
-Title
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
+Tit1e
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
 RRQM013A
 Page:
 RQ
 95
 ----------------------------------------------------------------------------------------------------------------------------------
-PSYC 8000 020 Noell 200 1
+PSYC 8000 020 Noe11 200 1
 ** No Text Required **
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
@@ -9187,23 +9187,23 @@ PSYC 8000 021 Papesh 200 0
 ** No Text Required **
 PSYC 8000 022 Renshaw 200 0
 **No Text Required **
-PSYC 8939 001 Baumeister 200 0
+PSYC 8939 001 8aumeister 200 0
 **No Text Required **
-PSYC 8939 002 Beck 200 0
+PSYC 8939 002 8eck 200 0
 ** No Text Required **
-PSYC 8939 003 Elliott 200 0
+PSYC 8939 003 E11iott 200 0
 **No Text Required **
-PSYC 8939 004 Geiselman 200 1
+PSYC 8939 004 Geise1man 200 1
 **No Text Required **
 PSYC 8939 005 Hawkins 200 0
 ** No Text Required **
 PSYC 8939 006 Hicks 200 0
 ** No Text Required **
-PSYC 8939 007 Lane 200 0
+PSYC 8939 007 1ane 200 0
 **No Text Required **
 PSYC 8939 008 Mathews 200 0
 **No Text Required **
-PSYC 8939 009 McDonald 200 1
+PSYC 8939 009 McDona1d 200 1
 ** No Text Required **
 PSYC 8939 010 Papesh 200 0
 **No Text Required **
@@ -9211,9 +9211,9 @@ PSYC 8959 001 Hicks 200 0
 ** No Text Required **
 PSYC 8979 001 Cherry 200 0
 ** No Text Required **
-PSYC 8989 001 Brantley 200 0
+PSYC 8989 001 8rant1ey 200 0
 ** No Text Required **
-PSYC 8989 002 Copeland 200 0
+PSYC 8989 002 Cope1and 200 0
 ** No Text Required **
 PSYC 8989 003 Cohen 200 1
 ** No Text Required **
@@ -9225,17 +9225,17 @@ Term:
 Dept/Course
 Author
 1
-Al5
+A15
 User: S980940332
 Section
-Title
+Tit1e
 **No Text Required **
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
 RRQM013A
 Page :
 RQ
@@ -9246,31 +9246,31 @@ PSYC 8989 005 Gresham 200 0
 ** No Text Required **
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
-PSYC 8989 006 Kelley 200 1
+PSYC 8989 006 Ke11ey 200 1
 ** No Text Required **
 PSYC 8989 007 Matson 200 0
 ** No Text Required **
-PSYC 8989 008 Noell 200 0
+PSYC 8989 008 Noe11 200 0
 ** No Text Required **
-PSYC 9000 001 Baumeister 200 0
+PSYC 9000 001 8aumeister 200 0
 **No Text Required **
-PSYC 9000 002 Beck 200 0
+PSYC 9000 002 8eck 200 0
 **No Text Required **
-PSYC 9000 003 Brantley 200 0
+PSYC 9000 003 8rant1ey 200 0
 **No Text Required **
-PSYC 9000 004 Buckner 200 1
+PSYC 9000 004 8uckner 200 1
 ** No Text Required **
 PSYC 9000 005 Cherry 200 0
 ** No Text Required **
 PSYC 9000 006 Cohen 200 3
 **No Text Required **
-PSYC 9000 007 Copeland 200 2
+PSYC 9000 007 Cope1and 200 2
 ** No Text Required**
 PSYC 9000 008 Davis 200 0
 **No Text Required **
-PSYC 9000 009 Elliott 200 0
+PSYC 9000 009 E11iott 200 0
 **No Text Required **
-PSYC 9000 010 Geiselman 200 0
+PSYC 9000 010 Geise1man 200 0
 **No Text Required **
 PSYC 9000 011 Gresham 200 2
 **No Text Required **
@@ -9278,7 +9278,7 @@ PSYC 9000 012 Hawkins 200 0
 ** No Text Required **
 PSYC 9000 013 Hicks 200 0
 **No Text Required**
-PSYC 9000 014 Kelley 200 4
+PSYC 9000 014 Ke11ey 200 4
 **No Text Required**
 5/26/15
 09:32:08
@@ -9290,39 +9290,39 @@ Author
 A15
 User: S980940332
 Section
-Title
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
+Tit1e
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
 RRQM013A
 Page:
 RO
 97
 ----------------------------------------------------------------------------------------------------------------------------------
-PSYC 9000 015 Lane 200 0
+PSYC 9000 015 1ane 200 0
 ** No Text Required **
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
-PSYC 9000 016 Long 200 1
+PSYC 9000 016 1ong 200 1
 ** No Text Required **
 PSYC 9000 017 Mathews 200 0
 **No Text Required **
 PSYC 9000 018 Matson 200 3
 **No Text Required **
-PSYC 9000 019 McDonald 200 0
+PSYC 9000 019 McDona1d 200 0
 **No Text Required **
-PSYC 9000 020 Noell 200 2
+PSYC 9000 020 Noe11 200 2
 ** No Text Required **
 PSYC 9000 021 Papesh 200 0
 **No Text Required **
 PSYC 9000 022 Renshaw 200 1
 ** No Text Required **
-PSYC 9000 023 Baumeister 200 0
+PSYC 9000 023 8aumeister 200 0
 **No Text Required **
-RNR 4061 001 Kaller 200 0
+RNR 4061 001 Ka11er 200 0
 **No Text Required **
 RNR 4061 002 Shupe 200 0
 **No Text Required **
@@ -9330,26 +9330,26 @@ RNR 7029 001 Staff 200 0
 **No Text Required **
 RNR 8000 001 Afton 200 0
 **No Text Required **
-RNR 8000 002 Lively 200 2
+RNR 8000 002 1ive1y 200 2
 ** No Text Required **
-RNR 8000 003 Blazier 200 0
+RNR 8000 003 81azier 200 0
 **No Text Required **
 RNR 8000 004 Cao 200 0
 ** No Text Required **
 RNR 8000 005 Staff 200 0
 **No Text Required **
-RNR 8000 006 Chambers 200 1
+RNR 8000 006 Cham8ers 200 1
 ** No Text Required **
 ----------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------- ------------------------------------------------ RNR 8000 007 Chang 200 0
 5/26/15
 09:32:08
 Store: 1
-Al5
+A15
 User: S980940332
 Term:
 Dept/Course Section
-Author Title
+Author Tit1e
 **No Text Required **
 RNR 8000 008
 **No Text Required **
@@ -9387,23 +9387,23 @@ RNR 8000 024
 ** No Text Required **
 RNR 8000 025
 ** No Text Required **
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
 Dean 200 0
 DeHoop 200 0
 Dozier 200 0
 Green 200 0
-Kaller 200 2
+Ka11er 200 2
 Keim 200 0
-Kelso 200 0
+Ke1so 200 0
 King 200 1
-Lapeyre 200 0
-Liu 200 0
-Lutz 200 0
+1apeyre 200 0
+1iu 200 0
+1utz 200 0
 Nyman 200 0
 Reigh 200 0
 Rohwer 200 0
@@ -9422,7 +9422,7 @@ A15
 User: S980940332
 Term:
 Dept/Course Section
-Author Title
+Author Tit1e
 RNR 8000 026
 ** No Text Required **
 RNR 8000 027
@@ -9459,30 +9459,30 @@ RNR 8900 011
 ** No Text Required **
 RNR 8900 012
 ** No Text Required **
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
 Supan 200 0
-Taylor 200 0
+Tay1or 200 0
 Tiersch 200 0
-Vlosky 200 0
+V1osky 200 0
 Wu 200 0
 Xu 200 0
 Afton 200 0
-Lively 200 0
-Blazier 200 0
+1ive1y 200 0
+81azier 200 0
 Cao 200 0
 Staff 200 0
-Chambers 200 0
+Cham8ers 200 0
 Chang 200 0
 Dean 200 0
 DeHoop 200 0
 Dozier 200 0
 Green 200 0
-Kaller 200 0
+Ka11er 200 0
 RRQM013A
 Page:
 RO
@@ -9497,7 +9497,7 @@ A15
 User: S980940332
 Term:
 Dept/Course Section
-Author Title
+Author Tit1e
 ** No Text Required **
 RNR 8900 014
 **No Text Required **
@@ -9535,17 +9535,17 @@ RNR 8900 030
 **No Text Required**
 RNR 8900 031
 **No Text Required **
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
-Kelso 200 0
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
+Ke1so 200 0
 King 200 0
-Lapeyre 200 0
-Liu 200 0
-Lutz 200 0
+1apeyre 200 0
+1iu 200 0
+1utz 200 0
 Nyman 200 0
 Reigh 200 0
 Rohwer 200 0
@@ -9554,9 +9554,9 @@ Rutherford 200 0
 Shupe 200 0
 Stouffer 200 0
 Supan 200 0
-Taylor 200 0
+Tay1or 200 0
 Tiersch 200 0
-Vlosky 200 0
+V1osky 200 0
 Wu 200 0
 Xu 200 0
 RRQM013A
@@ -9566,11 +9566,11 @@ RO
 5/26/15
 09:32:08
 Store: 1
-Al5
+A15
 User: S980940332
 Term:
 Dept/Course Section
-Author Title
+Author Tit1e
 RNR 9000 001
 ** No Text Required **
 RNR 9000 002
@@ -9607,45 +9607,45 @@ RNR 9000 017
 **No Text Required **
 RNR 9000 018
 **No Text Required **
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
 Afton 200 0
-Lively 200 1
-Blazier 200 0
+1ive1y 200 1
+81azier 200 0
 Cao 200 0
 Staff 200 0
-Chambers 200 0
+Cham8ers 200 0
 Chang 200 1
 Dean 200 1
 DeHoop 200 0
 Dozier 200 0
 Green 200 0
-Kaller 200 0
+Ka11er 200 0
 Keim 200 0
-Kelso 200 0
+Ke1so 200 0
 King 200 1
-Lapeyre 200 1
-Liu 200 0
-Lutz 200 0
+1apeyre 200 1
+1iu 200 0
+1utz 200 0
 RRQM013A
 Page:
 RO
-Wl
+W1
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
 RNR 9000 019 Nyman ~o 0
 5/26/15
 09:32:08
 Store: 1
-Al5
+A15
 User: S980940332
 Term:
 Dept/Course Section
-Author Title
+Author Tit1e
 ** No Text Required **
 RNR 9000 020
 **No Text Required **
@@ -9671,16 +9671,16 @@ RNR 9000 030
 ** No Text Required**
 RNR 9000 031
 ** No Text Required**
-SOCL 2001 001
-GIDDENS ESSENTIALS OF SOCIOLOGY
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
+SOC1 2001 001
+GIDDENS ESSENTIA1S OF SOCIO1OGY
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
 Enro 11 ments
-Class Capacity Actual
+C1ass Capacity Actua1
 RRQM013A
 Page:
-Edition Cv Publisher Imprint ISBN RO
+Edition Cv Pu81isher Imprint IS8N RO
 Reigh 200 0
 Rohwer 200 0
 Romaire 200 0
@@ -9688,102 +9688,102 @@ Rutherford 200 0
 Shupe 200 0
 Stouffer 200 1
 Supan 200 0
-Taylor 200 2
+Tay1or 200 2
 Tiersch 200 0
-Vlosky 200 0
+V1osky 200 0
 Wu 200 0
 Xu 200 0
-Gremillion 148 36
-5TH 15 PB NORTON NORTON 978-0-393-93745-9 RQ
-GIDDENS EBK ESSENTIALS OF SOCIOLOGY (FIFTH 5 AC DG DGTL BNCOM W. W. NORT ** E BOOK ** ED
-GIDDENS EBK ESSENTIALS OF SOCIOLOGY (FIFTH 5 AC DG DGTL BNCOM W. W. NORT ** E BOOK** ED
-SOCL 3501 001 Stevenson 50 42
-THIO DEVIANT BEHAVIOR llTH 13 PEARSON A+B 978-0-205-20516-5 RQ
-TAYLOR EBK DEVIANT BEHAVIOR. 11/E ll AC DG DGTL BNCOM ** E BOOK ** ED
-TAYLOR EBK DEVIANT BEHAVIOR. 11/E ll AC DG DGTL BNCOM ** E BOOK ** ED
+Gremi11ion 148 36
+5TH 15 P8 NORTON NORTON 978-0-393-93745-9 RQ
+GIDDENS E8K ESSENTIA1S OF SOCIO1OGY (FIFTH 5 AC DG DGT1 8NCOM W. W. NORT ** E 8OOK ** ED
+GIDDENS E8K ESSENTIA1S OF SOCIO1OGY (FIFTH 5 AC DG DGT1 8NCOM W. W. NORT ** E 8OOK** ED
+SOC1 3501 001 Stevenson 50 42
+THIO DEVIANT 8EHAVIOR 11TH 13 PEARSON A+8 978-0-205-20516-5 RQ
+TAY1OR E8K DEVIANT 8EHAVIOR. 11/E 11 AC DG DGT1 8NCOM ** E 8OOK ** ED
+TAY1OR E8K DEVIANT 8EHAVIOR. 11/E 11 AC DG DGT1 8NCOM ** E 8OOK ** ED
 102
 ----------------------------------------------------------------------------------------------------------------------------------
-SOCL 3510 001 Stevenson 55 35
+SOC1 3510 001 Stevenson 55 35
 ----------------------------------------------------------------------------------------------------------------------------------
 5/26/15 Store: 1 User: S980940332
-09:32:08 Term: Al5
-BN #0396 LSU BOOKSTORE
-Departmental Report
+09:32:08 Term: A15
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
 RRQM013A
 Dept/Course Section
-Author Title
-RIEDEL CRIMINAL VIOLENCE
-Location Professor
+Author Tit1e
+RIEDE1 CRIMINA1 VIO1ENCE
+1ocation Professor
 Enro 11 ments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN RO
-3RD 11 NE PB OXF OXF 978-0-19-973878-6 RO
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N RO
+3RD 11 NE P8 OXF OXF 978-0-19-973878-6 RO
 Page: 103
 ----------------------------------------------------------------------------------------------------------------------------------
-SOCL 3601 001 O'Neil 200 9
+SOC1 3601 001 O'Nei1 200 9
 ** No Text Required **
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
-SOCL 3901 001
+SOC1 3901 001
 **No Text Required**
-SOCL 4465 001
+SOC1 4465 001
 REINARMAN CRACK IN AMERICA 97
-WEIL
-ALEXANDER
+WEI1
+A1EXANDER
 ROSEN
 WEST
-FROM CHOCOLATE TO MORPHINE-UPDATED REV 05
+FROM CHOCO1ATE TO MORPHINE-UPDATED REV 05
 NEW JIM CROW
-EBK FROM CHOCOLATE TO MORPHINE
-EBK THE NEW JIM CROW
-SOCL 7901 001
+E8K FROM CHOCO1ATE TO MORPHINE
+E8K THE NEW JIM CROW
+SOC1 7901 001
 ** No Text Required **
-SOCL 8000 001
+SOC1 8000 001
 **No Text Required **
-SOCL 8000 002
+SOC1 8000 002
 ** No Text Required **
-SOCL 8000 003
+SOC1 8000 003
 **No Text Required **
-SOCL 8900 001
+SOC1 8900 001
 ** No Text Required **
-SOCL 8900 002
+SOC1 8900 002
 **No Text Required **
-SOCL 9000 001
+SOC1 9000 001
 **No Text Required **
-SOCL 9000 002
+SOC1 9000 002
 ** No Text Required **
-SOCL 9000 003
+SOC1 9000 003
 **No Text Required **
-SOCL 9000 004
+SOC1 9000 004
 ** No Text Required **
-SOCL 9000 005
+SOC1 9000 005
 ** No Text Required **
-SOCL 9000 006
+SOC1 9000 006
 **No Text Required **
-SOCL 9000 007
+SOC1 9000 007
 12
 Martin 200 2
-Becker 55 21
-PB PERSEUS D U OF CA PR 978-0-520-20242-9 RO
+8ecker 55 21
+P8 PERSEUS D U OF CA PR 978-0-520-20242-9 RO
 PD INGRAM HM 978-0-618-48379-2 RO
-PB PERSEUS D NEW PRESS 978-1-5955864-3-8 RO
-AC DG DGTL BNCOM
-AC DG DGTL BNCOM
-Becker
-Blanchard
+P8 PERSEUS D NEW PRESS 978-1-5955864-3-8 RO
+AC DG DGT1 8NCOM
+AC DG DGT1 8NCOM
+8ecker
+81anchard
 Dumais
-Tinkler
-Becker
-Blanchard
-Lee
-Slack
-Becker
+Tink1er
+8ecker
+81anchard
+1ee
+S1ack
+8ecker
 Dumais
-Berkowitz
-Tinkler
+8erkowitz
+Tink1er
 Schafer
-** E BOOK **
-** E BOOK **
+** E 8OOK **
+** E 8OOK **
 200
 200
 200
@@ -9814,96 +9814,96 @@ EO
 EO
 5/26/15 Store : 1 User: S980940332
 09:32 :08 Term: A15
-BN #0396 LSU BOOKSTORE
-Departmental Report
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
 RRQM013A
 Dept/Course Section
-Author Title
+Author Tit1e
 **No Text Required**
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
 Page: 104
 RO
 ----------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------- --------------------------------------------------------- -----------------------------------
-SOCL 9000 008 Blanchard 200 0
+SOC1 9000 008 81anchard 200 0
 ** No Text Required **
 ------------- ----------------------- ------------------------------- --------------------------------------------------------- ------
 ----------------------------------------------------------------------------------------------------------------------------------
-SOCL 9000 009 Shihadeh 200 2
+SOC1 9000 009 Shihadeh 200 2
 **No Text Required **
-SOCL 9000 010 Weil 200 0
+SOC1 9000 010 Wei1 200 0
 **No Text Required**
-SOCL 9000 011 Ka mo 200 1
+SOC1 9000 011 Ka mo 200 1
 **No Text Required **
 SPAN 1101 001 Quinones-Rodriguez 25 12
-POTOWSKI DICHO Y HECHO:BRIEF/AUDIO+WILEYPLUS 9TH 12 WILEY 978-1-1181004-1-7 RO
+POTOWSKI DICHO Y HECHO:8RIEF/AUDIO+WI1EYP1US 9TH 12 WI1EY 978-1-1181004-1-7 RO
 SPAN 1102 001 Matus 25 15
-POTOWSKI DICHO Y HECHO :BRIEF/AUDIO+WILEYPLUS 9TH 12 WILEY 978-1-1181004-1-7 RQ
-SPAN 1152 001 Lot ten 25 10
-POTOWSKI DICHO Y HECHO:BRIEF/AUDIO+WILEYPLUS 9TH 12 WILEY 978-1-1181004-1-7 RO
+POTOWSKI DICHO Y HECHO :8RIEF/AUDIO+WI1EYP1US 9TH 12 WI1EY 978-1-1181004-1-7 RQ
+SPAN 1152 001 1ot ten 25 10
+POTOWSKI DICHO Y HECHO:8RIEF/AUDIO+WI1EYP1US 9TH 12 WI1EY 978-1-1181004-1-7 RO
 SPAN 1152 003 Rico 25 6
-POTOWSKI DICHO Y HECHO:BRIEF/AUDIO+WILEYPLUS 9TH 12 WILEY 978-1-1181004-1-7 RQ
+POTOWSKI DICHO Y HECHO:8RIEF/AUDIO+WI1EYP1US 9TH 12 WI1EY 978-1-1181004-1-7 RQ
 SPAN 2101 001 Martinez 25 24
-HEINLE INTERACCIONES LL PKG W/ILEARN >IP< 7TH 14 CENGAGE L 978-1-1339076-6-4 RO
-SPAN 2101 002 Bauza 25 25
-HEINLE INTERACCIONES LL PKG W/ILEARN >IP< 7TH 14 CENGAGE L 978-1-1339076-6-4 RQ
+HEIN1E INTERACCIONES 11 PKG W/I1EARN >IP< 7TH 14 CENGAGE 1 978-1-1339076-6-4 RO
+SPAN 2101 002 8auza 25 25
+HEIN1E INTERACCIONES 11 PKG W/I1EARN >IP< 7TH 14 CENGAGE 1 978-1-1339076-6-4 RQ
 SPAN 2101 004 Martins 25 2
-HEINLE INTERACCIONES LL PKG W/ILEARN >IP< 7TH 14 CENGAGE L 978-1-1339076-6-4 RQ
-SPAN 2102 001 Mcneil 25 25
-HEINLE INTERACCIONES LL PKG W/ILEARN >IP< 7TH 14 CENGAGE L 978-1-1339076-6-4 RQ
+HEIN1E INTERACCIONES 11 PKG W/I1EARN >IP< 7TH 14 CENGAGE 1 978-1-1339076-6-4 RQ
+SPAN 2102 001 Mcnei1 25 25
+HEIN1E INTERACCIONES 11 PKG W/I1EARN >IP< 7TH 14 CENGAGE 1 978-1-1339076-6-4 RQ
 SPAN 2102 002 Azenara 25 24
-HEINLE INTERACCIONES LL PKG W/ILEARN >IP< 7TH 14 CENGAGE L 978 -1-1339076-6-4 RQ
-SPAN 2102 003 Byrd 25 25
+HEIN1E INTERACCIONES 11 PKG W/I1EARN >IP< 7TH 14 CENGAGE 1 978 -1-1339076-6-4 RQ
+SPAN 2102 003 8yrd 25 25
 5/26/15 Store: 1 User: S980940332
 09:32:08 Term: A15
-BN #0396 LSU BOOKSTORE
-Departmental Report
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
 RRQM013A
 Dept/Course Section
-Author Title
-Location Professor
+Author Tit1e
+1ocation Professor
 Enro 11 ments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
 Page: 105
 RQ
 ----------------------------------------------------------------------------------------------------------------------------------
-HEINLE INTERACCIONES LL PKG W/ILEARN >IP< 7TH 14 CENGAGE L 978-1-1339076-6-4 RQ
+HEIN1E INTERACCIONES 11 PKG W/I1EARN >IP< 7TH 14 CENGAGE 1 978-1-1339076-6-4 RQ
 ----------------------------------------------------------------------------------------------------------------------------------
 SPAN 3073 001 Castro 20 17
 ----------------------------------------------------------------------------------------------------------------------------------
 UGARTE
 MCNERNEY
 MCNERNEY
-ESPANA Y SU CIVILIZACION
-EBK ESPANA Y SU CIVILIZACION
-EBK ESPANA Y SU CIVILIZACION
-6TH 09 PB MCG
-EDITION AC DG DGTL BNCOM
-EDITION AC DG DGTL BNCOM
+ESPANA Y SU CIVI1IZACION
+E8K ESPANA Y SU CIVI1IZACION
+E8K ESPANA Y SU CIVI1IZACION
+6TH 09 P8 MCG
+EDITION AC DG DGT1 8NCOM
+EDITION AC DG DGT1 8NCOM
 MCG
-SPAN 4147 001 Fernandez-Palacios
+SPAN 4147 001 Fernandez-Pa1acios
 ** No Text Required **
 SW 2000 001 Chiasson
-COLBY INTRODUCTION TO SOCIAL WORK 3RD 10 PB LYCEUM LYCEUM
+CO18Y INTRODUCTION TO SOCIA1 WORK 3RD 10 P8 1YCEUM 1YCEUM
 SW 3003 001 Staff
 IVEY
 IVEY
 IVEY
-INTENTIONAL INTERVIEWING+COUNSELING 8TH 14 PB CENGAGE L B/C
-EBK INTENTIONAL INTERVIEWING AND CO '008 AC DG DGTL BNCOM
-EBK INTENTIONAL INTERVIEWING AND CO '008 AC DG DGTL BNCOM
-SW 7007 001 Lilley
+INTENTIONA1 INTERVIEWING+COUNSE1ING 8TH 14 P8 CENGAGE 1 8/C
+E8K INTENTIONA1 INTERVIEWING AND CO '008 AC DG DGT1 8NCOM
+E8K INTENTIONA1 INTERVIEWING AND CO '008 AC DG DGT1 8NCOM
+SW 7007 001 1i11ey
 ** No Text Required **
-SW 7008 001 Lilley
+SW 7008 001 1i11ey
 **No Text Required **
 SW 7010 001 Staff
 978-0-07-338520-4 RQ
-** E BOOK **
-** E BOOK **
+** E 8OOK **
+** E 8OOK **
 200
 50
 5
@@ -9913,8 +9913,8 @@ EO
 978-1-9334785-3-1 RQ
 35 12
 978-1-2850653-5-9 RQ
-** E BOOK **
-** E BOOK **
+** E 8OOK **
+** E 8OOK **
 200
 200
 35
@@ -9927,24 +9927,24 @@ POMEROY
 AM.PSYCHIA.
 POMEROY
 POMEROY
-CLINICAL ASSESSMENT WORKBOOK 2ND 15
-DIAG.+STAT.MAN.OF MENTAL DISORD. :DS 5TH 13
-PB CENGAGE L CENGAGE L 978-1-2857488-8-7 RQ
-PB AM PSYCHIA AM PSYCHIA 978-0-89042-555-8 RQ
-EBK CLINICAL ASSESSMENT WORKBOOK: B '002 AC DG DGTL BNCOM
-EBK CLINICAL ASSESSMENT WORKBOOK: B '002 AC DG DGTL BNCOM
-SW 7502 001 Lilley
+C1INICA1 ASSESSMENT WORK8OOK 2ND 15
+DIAG.+STAT.MAN.OF MENTA1 DISORD. :DS 5TH 13
+P8 CENGAGE 1 CENGAGE 1 978-1-2857488-8-7 RQ
+P8 AM PSYCHIA AM PSYCHIA 978-0-89042-555-8 RQ
+E8K C1INICA1 ASSESSMENT WORK8OOK: 8 '002 AC DG DGT1 8NCOM
+E8K C1INICA1 ASSESSMENT WORK8OOK: 8 '002 AC DG DGT1 8NCOM
+SW 7502 001 1i11ey
 ** No Text Required **
-SW 7503 001 Lilley
+SW 7503 001 1i11ey
 **No Text Required **
-SW 7807 001 Lilley
+SW 7807 001 1i11ey
 **No Text Required **
 SW 8000 001 Page
 **No Text Required **
 SW 9000 001 Page
 ** No Text Required **
-** E BOOK **
-** E BOOK **
+** E 8OOK **
+** E 8OOK **
 200
 200
 200
@@ -9964,7 +9964,7 @@ A15
 User: S980940332
 Term:
 Dept/Course Section
-Author Title
+Author Tit1e
 SW 9000 002
 ** No Text Required **
 SW 9000 003
@@ -10001,14 +10001,14 @@ THTR 7929 001
 ** No Text Required **
 THTR 8000 001
 ** No Text Required **
-BN #0396 LSU BOOKSTORE
-Departmental Report
-Location Professor
-Enrollments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
-Lemieux 200 0
-Lim 200 1
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
+1ocation Professor
+Enro11ments
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
+1emieux 200 0
+1im 200 1
 Staff 200 4
 Staff 200 6
 Staff 200 3
@@ -10032,22 +10032,22 @@ RQ
 ----------------------------------------------------------------------------------------------------------------------------------
 THTR 9000 001 Staff 200 0
 5/26/15 Store: 1 User: S980940332
-09:32:08 Term: Al5
-BN #0396 LSU BOOKSTORE
-Departmental Report
+09:32:08 Term: A15
+8N #0396 1SU 8OOKSTORE
+Departmenta1 Report
 RRQM013A
 Dept/Course Section
-Author Title
+Author Tit1e
 ** No Text Required **
-Location Professor
+1ocation Professor
 Enro 11 ments
-Class Capacity Actual
-Edition Cv Publisher Imprint ISBN
+C1ass Capacity Actua1
+Edition Cv Pu81isher Imprint IS8N
 Page: 107
 RQ
 ----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
-THTR 9000 002 Fletcher 200 2
+THTR 9000 002 F1etcher 200 2
 ** No Text Required **
 WGS 2500
 SHAW
@@ -10055,63 +10055,63 @@ MOCK
 WGS 2900
 GAY
 CANC MC4090
-RACHELS
-RACHELS
-RACHELS
-CANC FINlOOl
-BRADBERRY
+RACHE1S
+RACHE1S
+RACHE1S
+CANC FIN1OO1
+8RAD8ERRY
 GREAVES
 CANC CHEM2060
-BRUICE
-CANC ENGLlOOl
+8RUICE
+CANC ENG11OO1
 AZAR
-CLARKSON
-GREENBLATI
-BRISLIN
-CLARKSON
-CLARKSON
-CANC ENGLlOOl
-PERLOFF
+C1ARKSON
+GREEN81ATI
+8RIS1IN
+C1ARKSON
+C1ARKSON
+CANC ENG11OO1
+PER1OFF
 CANC FREN4003
 REZA
 CANC ISDS7024
 001
 WOMEN'S VOICES.FEMINIST VISIONS
-REDEFINING REALNESS
+REDEFINING REA1NESS
 001
-BAD FEMINIST
+8AD FEMINIST
 001
 6TH 15
 14
 14
-Siebenkittel 30 17
-PB MCG MCG 978-0-07-802700-0 RQ
-PB S+S ATRIA BOOK 978-1-4767091-3-0 RQ
+Sie8enkitte1 30 17
+P8 MCG MCG 978-0-07-802700-0 RQ
+P8 S+S ATRIA 8OOK 978-1-4767091-3-0 RQ
 Fe if er 30 10
-PB HARP PUB HARP PUB 978-0-06-228271-2 RQ
+P8 HARP PU8 HARP PU8 978-0-06-228271-2 RQ
 DURU 20 20
-ELEMENTS OF MORAL PHILOSOPHY 7TH 12 OE PB MCG MCG 978-0-07-803824-2 RQ
-EBK THE ELEMENTS OF MORAL PHILOSOPH EDITION AC DG DGTL BNCOM
-EBK THE ELEMENTS OF MORAL PHILOSOPH EDITION AC DG DGTL BNCOM
+E1EMENTS OF MORA1 PHI1OSOPHY 7TH 12 OE P8 MCG MCG 978-0-07-803824-2 RQ
+E8K THE E1EMENTS OF MORA1 PHI1OSOPH EDITION AC DG DGT1 8NCOM
+E8K THE E1EMENTS OF MORA1 PHI1OSOPH EDITION AC DG DGT1 8NCOM
 RECEIVINGERRORS RECEIVINGERRORS
-** E BOOK **
-** E BOOK **
+** E 8OOK **
+** E 8OOK **
 45 45
 EO
 EO
-EMOTIONAL INTELLIGENCE 2.0 09 INGRAM TALENTSM 978-0-9743206-2-5 RQ
-EBK EMOTIONAL INTELLIGENCE 2.0 AC DG DGTL BNCOM ** E BOOK ** EO
+EMOTIONA1 INTE11IGENCE 2.0 09 INGRAM TA1ENTSM 978-0-9743206-2-5 RQ
+E8K EMOTIONA1 INTE11IGENCE 2.0 AC DG DGT1 8NCOM ** E 8OOK ** EO
 001 HOGAN 20 20
-ESSENTIAL ORGANIC CHEM.-W/S.G./SOLN 2ND 10 OE PEARSON A-W 978-0-321-63385-9 RQ
+ESSENTIA1 ORGANIC CHEM.-W/S.G./SO1N 2ND 10 OE PEARSON A-W 978-0-321-63385-9 RQ
 001 TEXTNET 20 20
-FUND.OF ENGLISH GRAMM.(W/O ANS.)-W/ 4TH 11 PB PEARSON LONGMAN 978-0-13-246932-6 RQ
-BUSINESS LAW:TEXT+CASES 12TH 12 OE CENGAGE L s-w 978-0-538-47082-7 RO
-NORTON ANTH.ENG.LIT. ,V.l (PAPER) 9TH 12 PB NORTON NORTON 978-0-393-91247-0 RO
-INTERCULTURAL COMMUN.TRAINING 94 PB SAGE SAGE 978-0-8039-5075-7 RO
-EBK BUSINESS LAW: TEXT AND CASES: L '012 AC DG DGTL BNCOM ** E BOOK ** EO
-EBK BUSINESS LAW: TEXT AND CASES: L '012 AC DG DGTL BNCOM ** E BOOK ** EO
-4LANCE LANCE 1 1
-DYNAMICS OF PERSUASION-W/ACCESS 5TH 14 PB TAYLOR ROUTLEDGE 978-0-415-50742-4 RO
+FUND.OF ENG1ISH GRAMM.(W/O ANS.)-W/ 4TH 11 P8 PEARSON 1ONGMAN 978-0-13-246932-6 RQ
+8USINESS 1AW:TEXT+CASES 12TH 12 OE CENGAGE 1 s-w 978-0-538-47082-7 RO
+NORTON ANTH.ENG.1IT. ,V.1 (PAPER) 9TH 12 P8 NORTON NORTON 978-0-393-91247-0 RO
+INTERCU1TURA1 COMMUN.TRAINING 94 P8 SAGE SAGE 978-0-8039-5075-7 RO
+E8K 8USINESS 1AW: TEXT AND CASES: 1 '012 AC DG DGT1 8NCOM ** E 8OOK ** EO
+E8K 8USINESS 1AW: TEXT AND CASES: 1 '012 AC DG DGT1 8NCOM ** E 8OOK ** EO
+41ANCE 1ANCE 1 1
+DYNAMICS OF PERSUASION-W/ACCESS 5TH 14 P8 TAY1OR ROUT1EDGE 978-0-415-50742-4 RO
 001 ART 6 6
-ART 02 PB ADLER 978-2-2107544-7-8 RO
+ART 02 P8 AD1ER 978-2-2107544-7-8 RO
 001 VAN SCOTIER 4 4
