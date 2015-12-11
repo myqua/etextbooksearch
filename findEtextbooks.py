@@ -6,6 +6,8 @@ import csv
 from xml.etree import ElementTree
 
 pubFilePath = "TestPublisherFiles"
+storeFilePath ="BookstoreFiles"
+queryWebService = False
 
 def findISBNs (filename, path):
     isbnPattern1 = re.compile(r'978(?:-?\d){10}')
@@ -26,8 +28,30 @@ def findISBNs (filename, path):
         stripped = list(set(stripped))
     return stripped
 
-
-allISBNs = []
+pubISBNs = []
 for pubFile in os.listdir(pubFilePath):
-    allISBNs = allISBNs + (findISBNs(pubFile,pubFilePath))
+    pubISBNs = pubISBNs + (findISBNs(pubFile,pubFilePath))
+
+courseISBNs = []
+for storeFile in os.listdir(storeFilePath):
+    courseISBNs = courseISBNs + (findISBNs(storeFile,storeFilePath))
+
+xCourseISBNs = []
+#writing the results of webservice query (OCLC xISBN) to file - so as not to overstay our welcome
+if queryWebService:
+    for i in courseISBNs:
+        url = 'http://xisbn.worldcat.org/webservices/xid/isbn/'+i+'?method=getEditions&format=xml&ai=mike.waugh'
+        response = requests.get(url)
+        tree = ElementTree.fromstring(response.content)
+        for child in tree:
+            xCourseISBNs.append(child.text)
+    xCourseISBNs = list(set(xCourseISBNs))
+    with open("expandedCourseISBNs.txt", "w") as outfile:
+        for item in xCourseISBNs:
+            outfile.write("%s\n" % item)
+else:
+    with open("expandedCourseISBNs.txt", "r") as courseFile:
+        xCourseISBNs = [book.strip() for book in courseFile]
+
+
 
