@@ -5,18 +5,19 @@ import requests
 import csv
 from xml.etree import ElementTree
 
-pubFilePath = "TestPublisherFiles"
-storeFilePath ="BookstoreFiles"
-queryWebService = False
+pubFilePath = "PublisherFiles"
+storeFilePath = "BookstoreFiles"
+catFilePath = "CatalogFiles"
+queryWebService = False #needs to be True when running the first time - or when bookstore data changes
 
 def findISBNs (filename, path):
+    print (filename)
     isbnPattern1 = re.compile(r'978(?:-?\d){10}')
     isbnPattern2 = re.compile(r'[A-Za-z]((?:-?\d){10})\D')
     isbnPattern3 = re.compile(r'[A-zA-Z]((?:-?\d){9}X)')
     isbnPattern4 = re.compile(r'a(\d{10})\D')
     isbns = []
-    #with open("CRCRoughISBN.txt", encoding="utf8") as isbn_lines: #use for utf8
-    with open(os.path.join(path, filename), "r") as isbn_lines:
+    with open(os.path.join(path, filename), "r", encoding="ascii", errors="surrogateescape") as isbn_lines:
         for line in isbn_lines:
             isbns.extend(isbnPattern1.findall(line))
             isbns.extend(isbnPattern2.findall(line))
@@ -28,6 +29,28 @@ def findISBNs (filename, path):
         stripped = list(set(stripped))
     return stripped
 
+def getMetadata (matchingISBNs, outFileName):
+    rows = []
+    for z in matchingISBNs:
+        urlz = 'http://xisbn.worldcat.org/webservices/xid/isbn/'+z+'?method=getMetadata&format=xml&fl=*&ai=mike.waugh'
+        response = requests.get(urlz)
+        tree = ElementTree.fromstring(response.content)
+        for child in tree:
+            rows.append(child.attrib)
+
+    # print to csv
+    with open (outFileName, "w") as csvfile:
+        try:
+            fieldnames = rows[1].keys()
+        except:
+            fieldnames = "nothing"
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames, lineterminator='\n', extrasaction='ignore')
+        writer.writeheader()
+        for row in rows:
+            writer.writerow(row)
+
+
+    
 pubISBNs = []
 for pubFile in os.listdir(pubFilePath):
     pubISBNs = pubISBNs + (findISBNs(pubFile,pubFilePath))
@@ -36,8 +59,11 @@ courseISBNs = []
 for storeFile in os.listdir(storeFilePath):
     courseISBNs = courseISBNs + (findISBNs(storeFile,storeFilePath))
 
+#querying webservice for related isbns
+#writing the results to file - so as not to overstay our welcome when running multiple times
+#queryWebService will query xISBN webservice if true - will read previous results when false
+
 xCourseISBNs = []
-#writing the results of webservice query (OCLC xISBN) to file - so as not to overstay our welcome
 if queryWebService:
     for i in courseISBNs:
         url = 'http://xisbn.worldcat.org/webservices/xid/isbn/'+i+'?method=getEditions&format=xml&ai=mike.waugh'
@@ -53,5 +79,31 @@ else:
     with open("expandedCourseISBNs.txt", "r") as courseFile:
         xCourseISBNs = [book.strip() for book in courseFile]
 
+catISBNs = []
+for catFile in os.listdir(catFilePath):
+    catISBNs = catISBNs + (findISBNs(catFile,catFilePath))
 
+#match the files
+#needToBuy in pubFile but not cat, notDRMfree in cat but not pubfile, matches in pubfile and cat
+matches = []
+notDRMfree = []
+needToBuy = []
+noMatch = 0
+for x in xCourseISBNs:
+    if x in pubISBNs and x in catISBNs:
+        matches.append(x)
+    elif x in pubISBNs and x not in catISBNs:
+        needToBuy.append(x)
+    elif x in catISBNs and x not in pubISBNs:
+        notDRMfree.append(x)
+    else:
+        noMatch = noMatch + 1
+
+getMetadata (matches, "matches.csv")
+getMetadata (needToBuy, "needToBuy.csv")
+getMetadata (notDRMfree, "notDRMfree.csv")
+
+print ("done ")
+
+    
 
